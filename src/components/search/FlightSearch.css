@@ -1,0 +1,50 @@
+.formContainer {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.formGroup label {
+    font-weight: bold;
+}
+
+.columnOne,
+.columnTwo {
+    width: 50%;
+}
+
+.columnOne {
+    padding-right: 10px;
+}
+
+.columnTwo {
+    padding-left: 10px;
+}
+
+input,
+select {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: inherit;
+}
+
+.submitButton {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #0056b3;
+    }
+}

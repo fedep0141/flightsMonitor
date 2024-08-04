@@ -1,0 +1,65 @@
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+    transition: transform 0.2s;
+    text-decoration: none;
+    color: inherit;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #555;
+}
+
+.cardBody p {
+    margin: 10px 0;
+}
+
+.cardBody strong {
+    color: #333;
+}
+
+.calendar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.highlight {
+    background-color: #ffdd57 !important;
+    color: white !important;
+    background-color: #28a745 !important;
+}
+
+.react-calendar {
+    pointer-events: none;
+}
+
+.react-calendar__navigation__arrow {
+    display: none;
+}
+
+.react-calendar__navigation {
+    margin: 0 !important;
+}
+
+.react-calendar__month-view__days__day--weekend:not(.react-calendar__tile--active):not(.react-calendar__tile--hasActive) {
+    color: inherit !important;
+}
+
+.react-calendar__tile--hasActive {
+    background: #006edc !important;
+    color: white !important;
+}

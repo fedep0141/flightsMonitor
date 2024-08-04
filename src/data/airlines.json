@@ -1,0 +1,6670 @@
+{
+    "airlines": [
+        {
+            "name": "Avia Traffic Company",
+            "code": "ТФ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AirConnect",
+            "code": "KS",
+            "is_lowcost": false,
+            "site": "http://www.penair.com"
+        },
+        {
+            "name": "Avianca Costa Rica",
+            "code": "LR",
+            "is_lowcost": false,
+            "site": "http://www.taca.com"
+        },
+        {
+            "name": "Special Ground Handling Service -XH",
+            "code": "XH",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lynx Air",
+            "code": "Y9",
+            "is_lowcost": false,
+            "site": "http://www.kishairline.com"
+        },
+        {
+            "name": "Aerotranscargo",
+            "code": "F5",
+            "is_lowcost": false,
+            "site": "http://www.cosmicair.com"
+        },
+        {
+            "name": "Yan Air Ltd",
+            "code": "YE",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lyndname Air Cargo, LLC",
+            "code": "L2",
+            "is_lowcost": false,
+            "site": "http://www.lac.lynden.com/lac/"
+        },
+        {
+            "name": "PM Air LLC",
+            "code": "Z3",
+            "is_lowcost": false,
+            "site": "http://www.avient.aero"
+        },
+        {
+            "name": "Air Transport Association of Americad\\b\\a Airlines for America",
+            "code": "XD",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "EuroAtlantic Airways S.A.",
+            "code": "YU",
+            "is_lowcost": false,
+            "site": "http://www.euroatlantic.pt/html/en_homepage.asp"
+        },
+        {
+            "name": "Humo Air",
+            "code": "HJ",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Tasman_Cargo_Airlines"
+        },
+        {
+            "name": "Mahan Airlines",
+            "code": "W5",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Mahan_Air"
+        },
+        {
+            "name": "Miami Air Lease, Inc.",
+            "code": "MG",
+            "is_lowcost": false,
+            "site": "http://www.championair.com"
+        },
+        {
+            "name": "Tayaran Jet",
+            "code": "E8",
+            "is_lowcost": false,
+            "site": "http://www.alpieagles.com"
+        },
+        {
+            "name": "AlbaStar",
+            "code": "AP",
+            "is_lowcost": false,
+            "site": "http://www.flyairone.it"
+        },
+        {
+            "name": "Scandinavian Airlines",
+            "code": "SK",
+            "is_lowcost": false,
+            "site": "https://www.flysas.com"
+        },
+        {
+            "name": "Nature Air",
+            "code": "5C",
+            "is_lowcost": false,
+            "site": "http://www.cal.co.il"
+        },
+        {
+            "name": "Sky Mali",
+            "code": "ML",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Peach",
+            "code": "MM",
+            "is_lowcost": true,
+            "site": "https://www.flypeach.com"
+        },
+        {
+            "name": "Ariana Afghan Airlines",
+            "code": "FG",
+            "is_lowcost": false,
+            "site": "http://www.flyariana.com"
+        },
+        {
+            "name": "Aer Lingus",
+            "code": "EI",
+            "is_lowcost": false,
+            "site": "https://www.aerlingus.com"
+        },
+        {
+            "name": "Shnamezhname Airlines",
+            "code": "ZH",
+            "is_lowcost": false,
+            "site": "http://www.shenzhenair.com"
+        },
+        {
+            "name": "Tarom",
+            "code": "RO",
+            "is_lowcost": false,
+            "site": "http://www.tarom.ro/en/"
+        },
+        {
+            "name": "Ghadames Air Transport",
+            "code": "NJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "ZIPAIR Tokyo",
+            "code": "ZG",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Goldname Myanmar Airlines Public Co., Ltd",
+            "code": "Y5",
+            "is_lowcost": true,
+            "site": "https://en.wikipedia.org/wiki/Pace_Airlines"
+        },
+        {
+            "name": "Spring Airlines Japan",
+            "code": "IJ",
+            "is_lowcost": true,
+            "site": "http://www.gwairlines.com"
+        },
+        {
+            "name": "Thomas Cook Airlines Belgium",
+            "code": "HQ",
+            "is_lowcost": false,
+            "site": "http://www.thomascookairlines.com"
+        },
+        {
+            "name": "Caicos Express Airways",
+            "code": "9Q",
+            "is_lowcost": false,
+            "site": "http://www.pbair.com"
+        },
+        {
+            "name": "Croatia Airlines",
+            "code": "OU",
+            "is_lowcost": false,
+            "site": "https://www.croatiaairlines.com"
+        },
+        {
+            "name": "Air Ocean",
+            "code": "0O",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "LATAM Paraguay",
+            "code": "PZ",
+            "is_lowcost": false,
+            "site": "http://www.tam.com.py"
+        },
+        {
+            "name": "IRYO",
+            "code": "I6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Grand China Air",
+            "code": "CN",
+            "is_lowcost": false,
+            "site": "http://www.grandchinaair.com"
+        },
+        {
+            "name": "Druk Air",
+            "code": "KB",
+            "is_lowcost": false,
+            "site": "https://www.drukair.com.bt"
+        },
+        {
+            "name": "Tarco Air",
+            "code": "3T",
+            "is_lowcost": false,
+            "site": "http://www.turan-air.com"
+        },
+        {
+            "name": "Cambodia Angkor Air",
+            "code": "K6",
+            "is_lowcost": false,
+            "site": "http://www.khalifaairways-dz.com"
+        },
+        {
+            "name": "Mistral Air",
+            "code": "M4",
+            "is_lowcost": false,
+            "site": "http://www.novaairways.com"
+        },
+        {
+            "name": "China West Air",
+            "code": "PN",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Buraq Air Transport (BRQ)",
+            "code": "UZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air East",
+            "code": "ER",
+            "is_lowcost": false,
+            "site": "http://www.astaraircargo.us"
+        },
+        {
+            "name": "Biman Bangladesh Airlines",
+            "code": "BG",
+            "is_lowcost": false,
+            "site": "http://www.biman-airlines.com"
+        },
+        {
+            "name": "AirAsia Japan",
+            "code": "DJ",
+            "is_lowcost": true,
+            "site": "http://www.flypacificblue.com"
+        },
+        {
+            "name": "Orbest",
+            "code": "6O",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Arabia",
+            "code": "G9",
+            "is_lowcost": true,
+            "site": "http://www.airarabia.com"
+        },
+        {
+            "name": "FlyOne",
+            "code": "3F",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Loong Air",
+            "code": "GJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cyprus Airways",
+            "code": "CY",
+            "is_lowcost": false,
+            "site": "http://www.cyprusairways.com"
+        },
+        {
+            "name": "Cathay Pacific",
+            "code": "CX",
+            "is_lowcost": false,
+            "site": "https://www.cathaypacific.com"
+        },
+        {
+            "name": "Calm Air International",
+            "code": "MO",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Presidential_Flight_(UAE)"
+        },
+        {
+            "name": "Cargo Three Inc. dba Pan Air Cargo",
+            "code": "3J",
+            "is_lowcost": false,
+            "site": "http://www.4321ZIP.com"
+        },
+        {
+            "name": "Bemidji Airlines",
+            "code": "CH",
+            "is_lowcost": false,
+            "site": "https://bemidjiaviation.com"
+        },
+        {
+            "name": "Nakina Air Service",
+            "code": "T2",
+            "is_lowcost": false,
+            "site": "http://www.tma.com.lb"
+        },
+        {
+            "name": "China Cargo Airlines",
+            "code": "CK",
+            "is_lowcost": false,
+            "site": "http://www.ckair.com"
+        },
+        {
+            "name": "Insel Air",
+            "code": "7I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jatayu Airlines",
+            "code": "JZ",
+            "is_lowcost": false,
+            "site": "http://www.skyways.se"
+        },
+        {
+            "name": "Southern Sky",
+            "code": "IH",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aerovías DAP",
+            "code": "V5",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Royal_Aruban_Airlines"
+        },
+        {
+            "name": "Air Georgian Ltd. dba Air Alliance",
+            "code": "ZX",
+            "is_lowcost": false,
+            "site": "http://www.airgeorgian.ca"
+        },
+        {
+            "name": "China Express Airlines",
+            "code": "G5",
+            "is_lowcost": false,
+            "site": "http://www.chinaexpressair.com"
+        },
+        {
+            "name": "Blue Islands",
+            "code": "SI",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Skynet_Airlines"
+        },
+        {
+            "name": "Euro-Asia Air",
+            "code": "6Z",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Ukrainian_Cargo_Airways"
+        },
+        {
+            "name": "Sichuan Airlines",
+            "code": "3U",
+            "is_lowcost": false,
+            "site": "https://www.sichuanair.com"
+        },
+        {
+            "name": "Yakutia Airlines",
+            "code": "R3",
+            "is_lowcost": false,
+            "site": "http://www.armenianairlines.com"
+        },
+        {
+            "name": "Jetstar",
+            "code": "JQ",
+            "is_lowcost": false,
+            "site": "https://www.jetstar.com/"
+        },
+        {
+            "name": "Pegasus Airlines",
+            "code": "PC",
+            "is_lowcost": false,
+            "site": "https://www.flypgs.com"
+        },
+        {
+            "name": "Air Wisconsin Airlines Corporation(AWAC)",
+            "code": "ZW",
+            "is_lowcost": false,
+            "site": "http://www.airwis.com"
+        },
+        {
+            "name": "namedeavor Air",
+            "code": "9E",
+            "is_lowcost": false,
+            "site": "http://www.endeavorair.com"
+        },
+        {
+            "name": "Cobham Aviation Services Australia",
+            "code": "NC",
+            "is_lowcost": false,
+            "site": "http://www.northernaircargo.com"
+        },
+        {
+            "name": "Qanot Sharq",
+            "code": "HH",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Akasa Air",
+            "code": "QP",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Eurolot",
+            "code": "K2",
+            "is_lowcost": false,
+            "site": "http://www.eurolot.com.pl"
+        },
+        {
+            "name": "Skymark Airlines",
+            "code": "BC",
+            "is_lowcost": true,
+            "site": "https://www.skymark.co.jp/en/"
+        },
+        {
+            "name": "Air Sinai",
+            "code": "4D",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Sinai"
+        },
+        {
+            "name": "Eva Air",
+            "code": "BR",
+            "is_lowcost": false,
+            "site": "http://www.evaair.com"
+        },
+        {
+            "name": "Wizz Air Malta",
+            "code": "W4",
+            "is_lowcost": true,
+            "site": "http://www.aeroservices-executive.com"
+        },
+        {
+            "name": "Wizz Air",
+            "code": "W9",
+            "is_lowcost": true,
+            "site": "https://wizzair.com/"
+        },
+        {
+            "name": "Ryan Air Service",
+            "code": "7S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Canadian North",
+            "code": "5T",
+            "is_lowcost": false,
+            "site": "http://www.canadiannorth.ca"
+        },
+        {
+            "name": "Lufthansa",
+            "code": "LH",
+            "is_lowcost": false,
+            "site": "https://www.lufthansa.com"
+        },
+        {
+            "name": "Neos",
+            "code": "NO",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Aus-Air"
+        },
+        {
+            "name": "Chautauqua Airlines",
+            "code": "RP",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Colorful Guizhou Airlines",
+            "code": "GY",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Tri-MG_Intra_Asia_Airlines"
+        },
+        {
+            "name": "Utair",
+            "code": "UT",
+            "is_lowcost": false,
+            "site": "http://www.utair.ru/en/"
+        },
+        {
+            "name": "Nextjet",
+            "code": "2N",
+            "is_lowcost": false,
+            "site": "http://www.yuzmashair.com.ua/indexen.htm"
+        },
+        {
+            "name": "Hesa Airlines",
+            "code": "H8",
+            "is_lowcost": false,
+            "site": "http://www.dalavia.ru"
+        },
+        {
+            "name": "Tbilisi Airways",
+            "code": "TD",
+            "is_lowcost": false,
+            "site": "http://www.atlantis.am"
+        },
+        {
+            "name": "Binter Canarias",
+            "code": "NT",
+            "is_lowcost": false,
+            "site": "http://www.bintercanarias.com"
+        },
+        {
+            "name": "Firefly",
+            "code": "FY",
+            "is_lowcost": false,
+            "site": "http://www.fireflyz.com.my"
+        },
+        {
+            "name": "Flybe",
+            "code": "BE",
+            "is_lowcost": true,
+            "site": "http://www.flybe.com"
+        },
+        {
+            "name": "Aruba Airlines",
+            "code": "AG",
+            "is_lowcost": false,
+            "site": "http://www.aslairlines.ie"
+        },
+        {
+            "name": "BVI Airways",
+            "code": "XV",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aero Mongolia",
+            "code": "M0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Syrian Arab Airlines",
+            "code": "RB",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Srpska"
+        },
+        {
+            "name": "Helicópteros del Sureste",
+            "code": "UV",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Alitalia CityLiner",
+            "code": "CT",
+            "is_lowcost": false,
+            "site": "http://flyairone.com"
+        },
+        {
+            "name": "Vueling",
+            "code": "VY",
+            "is_lowcost": true,
+            "site": "http://www.vueling.com/?language=EN"
+        },
+        {
+            "name": "Cornamedon Airlines Europe",
+            "code": "XR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Vladivostok Air",
+            "code": "XF",
+            "is_lowcost": false,
+            "site": "http://www.vladivostokavia.ru/en"
+        },
+        {
+            "name": "Virgin Australia",
+            "code": "VA",
+            "is_lowcost": true,
+            "site": "https://www.virginaustralia.com"
+        },
+        {
+            "name": "Air Canada",
+            "code": "AC",
+            "is_lowcost": false,
+            "site": "https://www.aircanada.com"
+        },
+        {
+            "name": "Tigerair Mandala",
+            "code": "RI",
+            "is_lowcost": false,
+            "site": "http://www.mandalaair.com"
+        },
+        {
+            "name": "BA Cityflyer",
+            "code": "CJ",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/China_Northern_Airlines"
+        },
+        {
+            "name": "Carpatair",
+            "code": "V3",
+            "is_lowcost": false,
+            "site": "http://www.carpatair.com"
+        },
+        {
+            "name": "Mauritania Airlines International",
+            "code": "L6",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Tbilisi_Aircraft_Manufacturing"
+        },
+        {
+            "name": "Iberia Express",
+            "code": "I2",
+            "is_lowcost": false,
+            "site": "https://www.iberiaexpress.com"
+        },
+        {
+            "name": "Skippers Aviation",
+            "code": "HK",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Virgin Atlantic",
+            "code": "VS",
+            "is_lowcost": false,
+            "site": "https://www.virginatlantic.com"
+        },
+        {
+            "name": "SmartWings",
+            "code": "QS",
+            "is_lowcost": true,
+            "site": "https://www.smartwings.com"
+        },
+        {
+            "name": "Boliviana de Aviación",
+            "code": "OB",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Astrakhan_Airlines"
+        },
+        {
+            "name": "Southwind",
+            "code": "2S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Avion Express",
+            "code": "X9",
+            "is_lowcost": false,
+            "site": "http://www.avionexpress.aero"
+        },
+        {
+            "name": "TRIP Linhas Aéreas",
+            "code": "T4",
+            "is_lowcost": false,
+            "site": "http://www.hellas-jet.com"
+        },
+        {
+            "name": "Tigerair Philippines",
+            "code": "DG",
+            "is_lowcost": true,
+            "site": "http://www.tigerair.com"
+        },
+        {
+            "name": "MetroJet",
+            "code": "7K",
+            "is_lowcost": false,
+            "site": "http://www.kolavia.ru"
+        },
+        {
+            "name": "St Barth Commuter",
+            "code": "PV",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/ASL_Airlines_Spain"
+        },
+        {
+            "name": "Tassili Airlines",
+            "code": "SF",
+            "is_lowcost": false,
+            "site": "http://www.tassiliairlines.dz"
+        },
+        {
+            "name": "Surinam Airways",
+            "code": "PY",
+            "is_lowcost": false,
+            "site": "http://www.slm.nl/?EN/1"
+        },
+        {
+            "name": "Motor Sich Airlines",
+            "code": "M9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Motor_Sich"
+        },
+        {
+            "name": "MHS Aviation",
+            "code": "M2",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Mahfooz_Aviation"
+        },
+        {
+            "name": "Globus LLС",
+            "code": "XT",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Exel"
+        },
+        {
+            "name": "Aeromexico",
+            "code": "AM",
+            "is_lowcost": false,
+            "site": "https://aeromexico.com"
+        },
+        {
+            "name": "C.A.I. Second",
+            "code": "VE",
+            "is_lowcost": false,
+            "site": "http://www.avensa.com.ve"
+        },
+        {
+            "name": "Chair Airlines",
+            "code": "GM",
+            "is_lowcost": false,
+            "site": "http://www.airslovakia.sk"
+        },
+        {
+            "name": "Orinamet Thai Airlines",
+            "code": "OX",
+            "is_lowcost": false,
+            "site": "http://www.orient-thai.com"
+        },
+        {
+            "name": "Norwegian Air Shuttle",
+            "code": "DY",
+            "is_lowcost": true,
+            "site": "https://www.norwegian.com"
+        },
+        {
+            "name": "Airlines PNG",
+            "code": "CG",
+            "is_lowcost": false,
+            "site": "http://www.apng.com"
+        },
+        {
+            "name": "Skytrans",
+            "code": "QN",
+            "is_lowcost": false,
+            "site": "http://www.airarmenia.net"
+        },
+        {
+            "name": "Martinair",
+            "code": "MP",
+            "is_lowcost": false,
+            "site": "http://www.martinair.com"
+        },
+        {
+            "name": "Korean Air",
+            "code": "KE",
+            "is_lowcost": false,
+            "site": "https://www.koreanair.com"
+        },
+        {
+            "name": "Silver Airways",
+            "code": "3M",
+            "is_lowcost": false,
+            "site": "http://www.gulfstreamair.com"
+        },
+        {
+            "name": "Jet Airways",
+            "code": "9W",
+            "is_lowcost": false,
+            "site": "http://www.jetairways.com"
+        },
+        {
+            "name": "Flybondi",
+            "code": "FO",
+            "is_lowcost": false,
+            "site": "http://www.airtasmania.com.au"
+        },
+        {
+            "name": "Air Grenameland",
+            "code": "GL",
+            "is_lowcost": false,
+            "site": "http://www.miamiair.com"
+        },
+        {
+            "name": "SkyAlps",
+            "code": "BQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Afriqiyah Airways",
+            "code": "8U",
+            "is_lowcost": false,
+            "site": "http://www.afriqiyah.aero/"
+        },
+        {
+            "name": "Garuda Indonesia",
+            "code": "GA",
+            "is_lowcost": false,
+            "site": "https://www.garuda-indonesia.com"
+        },
+        {
+            "name": "UR Airline",
+            "code": "UD",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sutra Inc.",
+            "code": "1K",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Mekong",
+            "code": "P8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Uzbekistan Airways Express",
+            "code": "0H",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aeroservis",
+            "code": "АЯ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cubana de Aviación",
+            "code": "CU",
+            "is_lowcost": false,
+            "site": "http://www.cubana.cu"
+        },
+        {
+            "name": "Fly540",
+            "code": "5H",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "SpiceJet",
+            "code": "SG",
+            "is_lowcost": true,
+            "site": "https://www.spicejet.com"
+        },
+        {
+            "name": "Turkmnameistan Airlines",
+            "code": "T5",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Daallo Airlines",
+            "code": "D3",
+            "is_lowcost": false,
+            "site": "http://www.daallo.biz"
+        },
+        {
+            "name": "Air Arabia Maroc",
+            "code": "3O",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "S.C. Tname Airways S.R.L.",
+            "code": "X5",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Windrose Airlines",
+            "code": "7W",
+            "is_lowcost": false,
+            "site": "https://wayraperu.com.pe"
+        },
+        {
+            "name": "Bhutan Airlines",
+            "code": "B3",
+            "is_lowcost": false,
+            "site": "http://www.flybellviewair.com"
+        },
+        {
+            "name": "Proflight Zambia",
+            "code": "P0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "E-Savtravel",
+            "code": "L1",
+            "is_lowcost": false,
+            "site": "http://www.total.com.br"
+        },
+        {
+            "name": "Edelweiss Air",
+            "code": "WK",
+            "is_lowcost": false,
+            "site": "http://www.edelweissair.com/e/"
+        },
+        {
+            "name": "Fly CamInter",
+            "code": "EF",
+            "is_lowcost": true,
+            "site": "http://www.fat.com.tw"
+        },
+        {
+            "name": "CJSC Royal Flight airlines",
+            "code": "4R",
+            "is_lowcost": false,
+            "site": "http://www.hamburg-international.de/en/"
+        },
+        {
+            "name": "ALS Ltd.",
+            "code": "K4",
+            "is_lowcost": false,
+            "site": "https://www.kalittaair.com"
+        },
+        {
+            "name": "UTair",
+            "code": "ЮЭ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Red Sea Airlines",
+            "code": "4S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "JSC Aircompany ATMA",
+            "code": "IM",
+            "is_lowcost": false,
+            "site": "http://www.menajet.com"
+        },
+        {
+            "name": "Afric Aviation",
+            "code": "L8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Mandalay",
+            "code": "6T",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Icelandair",
+            "code": "FI",
+            "is_lowcost": false,
+            "site": "https://www.icelandair.com"
+        },
+        {
+            "name": "United Airlines",
+            "code": "UA",
+            "is_lowcost": false,
+            "site": "https://www.united.com"
+        },
+        {
+            "name": "Kartika Airlines",
+            "code": "3Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Mandarin Airlines",
+            "code": "AE",
+            "is_lowcost": false,
+            "site": "https://www.mandarin-airlines.com"
+        },
+        {
+            "name": "Winair",
+            "code": "WM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Amerijet International Inc.",
+            "code": "M6",
+            "is_lowcost": false,
+            "site": "https://www.amerijet.com"
+        },
+        {
+            "name": "Fly Jordan",
+            "code": "F0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aerolink Uganda Limited",
+            "code": "A8",
+            "is_lowcost": false,
+            "site": "https://www.ameriflight.com"
+        },
+        {
+            "name": "Cinnamon Air",
+            "code": "C7",
+            "is_lowcost": false,
+            "site": "http://www.voerico.com.br"
+        },
+        {
+            "name": "Travelport Global Distribution SystemB.V.",
+            "code": "1G",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "DoKaSch",
+            "code": "3D",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Fly Lili",
+            "code": "FL",
+            "is_lowcost": false,
+            "site": "http://www.airtran.com"
+        },
+        {
+            "name": "fastjet",
+            "code": "FN",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Far Eastern Air Transport",
+            "code": "FE",
+            "is_lowcost": false,
+            "site": "http://primarisairlines.com"
+        },
+        {
+            "name": "Uzbekistan Airways",
+            "code": "HY",
+            "is_lowcost": false,
+            "site": "http://www.uzairways.com"
+        },
+        {
+            "name": "Air Niamey",
+            "code": "A7",
+            "is_lowcost": true,
+            "site": "http://www.aircomet.com"
+        },
+        {
+            "name": "Bering Air",
+            "code": "8E",
+            "is_lowcost": false,
+            "site": "http://www.beringair.com"
+        },
+        {
+            "name": "AJet",
+            "code": "VF",
+            "is_lowcost": false,
+            "site": "http://www.valuair.com.sg"
+        },
+        {
+            "name": "Navitaire",
+            "code": "1N",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Royal Zambian Airlines",
+            "code": "3Q",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/China_Yunnan_Airlines"
+        },
+        {
+            "name": "IndiGo",
+            "code": "6E",
+            "is_lowcost": true,
+            "site": "https://www.goindigo.in"
+        },
+        {
+            "name": "Transair Snameegal",
+            "code": "R2",
+            "is_lowcost": false,
+            "site": "http://www.orenair.ru"
+        },
+        {
+            "name": "Alrosa",
+            "code": "6R",
+            "is_lowcost": false,
+            "site": "http://www.mapalrosa.com"
+        },
+        {
+            "name": "Airshop B.V.",
+            "code": "FF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Chang An Airlines",
+            "code": "9H",
+            "is_lowcost": false,
+            "site": "http://www.flydae.com"
+        },
+        {
+            "name": "Air Incheon",
+            "code": "KJ",
+            "is_lowcost": false,
+            "site": "http://flybmed.com"
+        },
+        {
+            "name": "Jetstar Pacific Airlines",
+            "code": "BL",
+            "is_lowcost": true,
+            "site": "http://www.jetstar.com"
+        },
+        {
+            "name": "Animawings",
+            "code": "A2",
+            "is_lowcost": false,
+            "site": "http://www.cielos-airlines.com"
+        },
+        {
+            "name": "Air Caraibes",
+            "code": "TX",
+            "is_lowcost": false,
+            "site": "https://www.aircaraibes.com"
+        },
+        {
+            "name": "Fly Branson Travel dba Branson AirExpress",
+            "code": "1X",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Azul Brazilian Airlines",
+            "code": "AD",
+            "is_lowcost": true,
+            "site": "https://www.voeazul.com.br"
+        },
+        {
+            "name": "Thomas Cook Airlines",
+            "code": "MT",
+            "is_lowcost": false,
+            "site": "http://www.thomascookairlines.co.uk"
+        },
+        {
+            "name": "Farelogix Qatar Airways",
+            "code": "F1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SUN-AIR",
+            "code": "ZU",
+            "is_lowcost": false,
+            "site": "http://www.flyhelios.com"
+        },
+        {
+            "name": "Air Excel",
+            "code": "0X",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cornamedon Airlines",
+            "code": "XC",
+            "is_lowcost": false,
+            "site": "http://www.corendon-airlines.com"
+        },
+        {
+            "name": "Air Panama",
+            "code": "7P",
+            "is_lowcost": false,
+            "site": "http://www.batavia-air.co.id"
+        },
+        {
+            "name": "Onur Air",
+            "code": "8Q",
+            "is_lowcost": true,
+            "site": "http://www.onurair.com.tr/default_eng.aspx"
+        },
+        {
+            "name": "Hong Kong Airlines",
+            "code": "HX",
+            "is_lowcost": false,
+            "site": "https://www.hongkongairlines.com"
+        },
+        {
+            "name": "Emirates",
+            "code": "EK",
+            "is_lowcost": false,
+            "site": "https://www.emirates.com"
+        },
+        {
+            "name": "Ultimate Jetcharters",
+            "code": "UE",
+            "is_lowcost": false,
+            "site": "http://www.nasair.aero"
+        },
+        {
+            "name": "Sun Express",
+            "code": "XQ",
+            "is_lowcost": true,
+            "site": "http://www.sunexpress.com"
+        },
+        {
+            "name": "Armnameia Airways",
+            "code": "ЕП",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Freebird Airlines",
+            "code": "FH",
+            "is_lowcost": false,
+            "site": "http://www.freebirdairlines.com"
+        },
+        {
+            "name": "Sundair",
+            "code": "SR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air City",
+            "code": "4F",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_City"
+        },
+        {
+            "name": "Kosmos",
+            "code": "ГК",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jonair",
+            "code": "0N",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lignes Aerinamenes Congolaises",
+            "code": "4V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Balkan",
+            "code": "БА",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Joon",
+            "code": "JN",
+            "is_lowcost": false,
+            "site": "http://www.xl.com"
+        },
+        {
+            "name": "Riyadh Air",
+            "code": "RX",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Aviaexpress"
+        },
+        {
+            "name": "Tiara Air Aruba",
+            "code": "3P",
+            "is_lowcost": false,
+            "site": "http://www.Tiara-air.com"
+        },
+        {
+            "name": "Zagros Air Co.",
+            "code": "Z4",
+            "is_lowcost": false,
+            "site": "http://www.zoomairlines.com"
+        },
+        {
+            "name": "Air Manas",
+            "code": "ZM",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cambodia Airways",
+            "code": "KR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Avion Express Malta",
+            "code": "4X",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Arajet",
+            "code": "DM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Northwest Airlines",
+            "code": "NW",
+            "is_lowcost": false,
+            "site": "http://www.nwa.com"
+        },
+        {
+            "name": "Condor",
+            "code": "DE",
+            "is_lowcost": false,
+            "site": "https://www.condor.com"
+        },
+        {
+            "name": "Karinou Airlines",
+            "code": "U5",
+            "is_lowcost": false,
+            "site": "http://www.usa3000.com"
+        },
+        {
+            "name": "Sky Express",
+            "code": "GQ",
+            "is_lowcost": false,
+            "site": "http://www.bigskyair.com"
+        },
+        {
+            "name": "Pacific Coastal Airlines",
+            "code": "8P",
+            "is_lowcost": false,
+            "site": "http://www.pacificcoastal.com"
+        },
+        {
+            "name": "Singapore Airlines",
+            "code": "SQ",
+            "is_lowcost": false,
+            "site": "https://www.singaporeair.com"
+        },
+        {
+            "name": "Okay Airways",
+            "code": "BK",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Compass Airlines",
+            "code": "CP",
+            "is_lowcost": false,
+            "site": "http://www.compassairline.com"
+        },
+        {
+            "name": "National Airlines",
+            "code": "N8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Flair Airlines",
+            "code": "F8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "North-Wright Airways",
+            "code": "HW",
+            "is_lowcost": false,
+            "site": "http://www.hello.ch/?L=1"
+        },
+        {
+            "name": "GetJet",
+            "code": "GW",
+            "is_lowcost": false,
+            "site": "http://www.alk.ru"
+        },
+        {
+            "name": "Berjaya Air",
+            "code": "J8",
+            "is_lowcost": false,
+            "site": "http://www.berjaya-air.com"
+        },
+        {
+            "name": "Clairmont Holdings Ltd dba VI Air Link",
+            "code": "V6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Yamal Airlines",
+            "code": "YC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Punta Europa",
+            "code": "PU",
+            "is_lowcost": false,
+            "site": "http://www.flypluna.com"
+        },
+        {
+            "name": "Scoot",
+            "code": "TR",
+            "is_lowcost": true,
+            "site": "https://www.flyscoot.com/"
+        },
+        {
+            "name": "Naryan-Mar Airlines",
+            "code": "НЯ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Hinterland Aviation",
+            "code": "OI",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "VLM Airlines",
+            "code": "VG",
+            "is_lowcost": false,
+            "site": "http://www.cityjet.com"
+        },
+        {
+            "name": "Air Tanzania",
+            "code": "TC",
+            "is_lowcost": false,
+            "site": "http://www.airtanzania.com"
+        },
+        {
+            "name": "Atlas Air",
+            "code": "5Y",
+            "is_lowcost": false,
+            "site": "https://www.atlasairworldwide.com"
+        },
+        {
+            "name": "Germania",
+            "code": "ST",
+            "is_lowcost": false,
+            "site": "http://www.flygermania.de"
+        },
+        {
+            "name": "Middle East Airlines",
+            "code": "ME",
+            "is_lowcost": false,
+            "site": "https://www.mea.com.lb"
+        },
+        {
+            "name": "TAP Portugal",
+            "code": "TP",
+            "is_lowcost": false,
+            "site": "https://www.flytap.com"
+        },
+        {
+            "name": "Qazaq Air",
+            "code": "IQ",
+            "is_lowcost": false,
+            "site": "http://www.augsburgair.de/en/index.html"
+        },
+        {
+            "name": "Vision Airlines",
+            "code": "V2",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Karat_(airline)"
+        },
+        {
+            "name": "Air Niugini",
+            "code": "PX",
+            "is_lowcost": false,
+            "site": "http://www.airniugini.com.pg"
+        },
+        {
+            "name": "Aeropelican Air Services",
+            "code": "OT",
+            "is_lowcost": false,
+            "site": "http://www.aeropelican.com.au"
+        },
+        {
+            "name": "Srilankan Airlines",
+            "code": "UL",
+            "is_lowcost": false,
+            "site": "http://www.srilankan.aero"
+        },
+        {
+            "name": "Departmnamet of National Defnamece",
+            "code": "YF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Stobart Air",
+            "code": "RE",
+            "is_lowcost": false,
+            "site": "http://www.aerarann.com"
+        },
+        {
+            "name": "TurboJET",
+            "code": "8S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Delta Air Lines",
+            "code": "DL",
+            "is_lowcost": false,
+            "site": "https://www.delta.com"
+        },
+        {
+            "name": "Servicios Aéreos de los Andes",
+            "code": "FP",
+            "is_lowcost": false,
+            "site": "http://www.freedomairguam.com"
+        },
+        {
+            "name": "JSC Transport Automated InformationSystems - TAIS",
+            "code": "1M",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Joy Air",
+            "code": "JR",
+            "is_lowcost": false,
+            "site": "https://www.aerocalifornia.com.mx"
+        },
+        {
+            "name": "Airmax S.A.",
+            "code": "X8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "All Nippon Airways",
+            "code": "NH",
+            "is_lowcost": false,
+            "site": "https://www.ana.co.jp"
+        },
+        {
+            "name": "EasyJet",
+            "code": "U2",
+            "is_lowcost": true,
+            "site": "https://www.easyjet.com"
+        },
+        {
+            "name": "Jet2.com",
+            "code": "LS",
+            "is_lowcost": true,
+            "site": "https://www.jet2.com"
+        },
+        {
+            "name": "As Avies",
+            "code": "U3",
+            "is_lowcost": false,
+            "site": "http://www.avies.ee"
+        },
+        {
+            "name": "Eurostar",
+            "code": "9F",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Marathon Airlines",
+            "code": "O8",
+            "is_lowcost": false,
+            "site": "http://www.oasishongkong.com"
+        },
+        {
+            "name": "Star Peru",
+            "code": "2I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Safair",
+            "code": "FA",
+            "is_lowcost": true,
+            "site": "http://www.safair.co.za"
+        },
+        {
+            "name": "Air Seychelles",
+            "code": "HM",
+            "is_lowcost": false,
+            "site": "http://www.airseychelles.com"
+        },
+        {
+            "name": "Jin Air",
+            "code": "LJ",
+            "is_lowcost": true,
+            "site": "https://www.jinair.com"
+        },
+        {
+            "name": "FlyBosnia",
+            "code": "6W",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Saratov_Airlines"
+        },
+        {
+            "name": "Hahn Air",
+            "code": "HR",
+            "is_lowcost": false,
+            "site": "http://www.hahnair.com"
+        },
+        {
+            "name": "IHY Izmir Havayollari A.S.",
+            "code": "4I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Hewlett-Packard (Schweiz) GmbH",
+            "code": "1C",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Khabavia",
+            "code": "НИ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Vieques Air Link",
+            "code": "V4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aurora",
+            "code": "HZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Royal Nepal Airlines",
+            "code": "RA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aerolineas Argnametinas",
+            "code": "AR",
+            "is_lowcost": false,
+            "site": "https://www.aerolineas.com.ar"
+        },
+        {
+            "name": "PT.Trigana Air Service",
+            "code": "IL",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Polar Airlines",
+            "code": "PI",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Thai Vietjet Air",
+            "code": "VZ",
+            "is_lowcost": true,
+            "site": "http://www.airclass.com.uy"
+        },
+        {
+            "name": "Aztec Airways",
+            "code": "AJ",
+            "is_lowcost": false,
+            "site": "http://www.flyaero.com"
+        },
+        {
+            "name": "9G Rail",
+            "code": "9G",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sriwijaya Air",
+            "code": "SJ",
+            "is_lowcost": false,
+            "site": "http://www.seagleair.sk/en"
+        },
+        {
+            "name": "Sky Airlines",
+            "code": "ZY",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "ULS Airlines Cargo",
+            "code": "GO",
+            "is_lowcost": false,
+            "site": "http://www.uls-global.com"
+        },
+        {
+            "name": "Air Europa",
+            "code": "UX",
+            "is_lowcost": false,
+            "site": "https://www.aireuropa.com"
+        },
+        {
+            "name": "Cargolux",
+            "code": "CV",
+            "is_lowcost": false,
+            "site": "https://www.cargolux.com"
+        },
+        {
+            "name": "Japan Airlines",
+            "code": "JL",
+            "is_lowcost": false,
+            "site": "https://www.jal.com"
+        },
+        {
+            "name": "Air India Express",
+            "code": "IX",
+            "is_lowcost": true,
+            "site": "http://www.airindiaexpress.in"
+        },
+        {
+            "name": "Nauru Airline",
+            "code": "ON",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "DHL Air Limited",
+            "code": "D0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Douniah Airlines",
+            "code": "DH",
+            "is_lowcost": false,
+            "site": "https://www.norwegian.com"
+        },
+        {
+            "name": "Travel Service Polska Sp. z.o.o.",
+            "code": "3Z",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Thai Express Air Co. Ltd",
+            "code": "EX",
+            "is_lowcost": false,
+            "site": "http://www.airsantodomingo.com.do"
+        },
+        {
+            "name": "Gambia Bird Airlines",
+            "code": "3G",
+            "is_lowcost": false,
+            "site": "http://www.atlant-soyuz.ru"
+        },
+        {
+            "name": "Vistara",
+            "code": "UK",
+            "is_lowcost": false,
+            "site": "https://www.airvistara.com/"
+        },
+        {
+            "name": "JSC Kazaviaspas",
+            "code": "ZS",
+            "is_lowcost": false,
+            "site": "http://www.azzurraair.it/eng/Home.asp"
+        },
+        {
+            "name": "Bearskin Airlines",
+            "code": "JV",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Bearskin_Airlines"
+        },
+        {
+            "name": "Hainan Airlines",
+            "code": "HU",
+            "is_lowcost": false,
+            "site": "https://www.hainanairlines.com"
+        },
+        {
+            "name": "Exec Air, Inc. of Naples",
+            "code": "X7",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Chitaavia"
+        },
+        {
+            "name": "Royal Flight",
+            "code": "RL",
+            "is_lowcost": false,
+            "site": "http://www.royalflight.ru"
+        },
+        {
+            "name": "Tectimes Sudamerica",
+            "code": "C1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Asiana Airlines",
+            "code": "OZ",
+            "is_lowcost": false,
+            "site": "https://flyasiana.com"
+        },
+        {
+            "name": "Eastar Jet",
+            "code": "ZE",
+            "is_lowcost": true,
+            "site": "http://www.arcus-air.com"
+        },
+        {
+            "name": "South Airlines",
+            "code": "YG",
+            "is_lowcost": false,
+            "site": "https://www.yto.net.cn"
+        },
+        {
+            "name": "Airnorth",
+            "code": "TL",
+            "is_lowcost": false,
+            "site": "http://www.airnorth.com.au"
+        },
+        {
+            "name": "Miami Air International",
+            "code": "LL",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Batik Air Indonesia",
+            "code": "ID",
+            "is_lowcost": false,
+            "site": "http://www.flyinterlink.co.za/"
+        },
+        {
+            "name": "North Flying",
+            "code": "M3",
+            "is_lowcost": false,
+            "site": "http://www.northflying.com"
+        },
+        {
+            "name": "Severstal Air",
+            "code": "D2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TAB - Transportes Aéreos Bolivianos",
+            "code": "B1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "CitiznamePlane",
+            "code": "1L",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Treaty_on_Open_Skies"
+        },
+        {
+            "name": "Silkair",
+            "code": "MI",
+            "is_lowcost": false,
+            "site": "http://www.silkair.com"
+        },
+        {
+            "name": "Avianca",
+            "code": "AV",
+            "is_lowcost": false,
+            "site": "https://www.avianca.com"
+        },
+        {
+            "name": "Empire Airlines",
+            "code": "EM",
+            "is_lowcost": false,
+            "site": "https://empireairlines.com"
+        },
+        {
+            "name": "Skyway Costa Rica",
+            "code": "LC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Novoair",
+            "code": "VQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Citilink Airlines",
+            "code": "QG",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Trans Air Congo",
+            "code": "Q8",
+            "is_lowcost": false,
+            "site": "http://www.peacairlines.com"
+        },
+        {
+            "name": "Shanghai Airlines",
+            "code": "FM",
+            "is_lowcost": false,
+            "site": "http://www.shanghai-air.com"
+        },
+        {
+            "name": "Royal Air Maroc",
+            "code": "AT",
+            "is_lowcost": false,
+            "site": "https://www.royalairmaroc.com"
+        },
+        {
+            "name": "UM Airlines",
+            "code": "UF",
+            "is_lowcost": false,
+            "site": "http://www.umairlines.com"
+        },
+        {
+            "name": "Taquan Air",
+            "code": "K3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jeju Air",
+            "code": "7C",
+            "is_lowcost": true,
+            "site": "https://www.jejuair.net"
+        },
+        {
+            "name": "ACT Havayollari A.S.",
+            "code": "9T",
+            "is_lowcost": false,
+            "site": "http://www.transwestair.com"
+        },
+        {
+            "name": "Shuttle America",
+            "code": "S5",
+            "is_lowcost": false,
+            "site": "http://www.shuttleamerica.com"
+        },
+        {
+            "name": "Cnametral Mountain Air",
+            "code": "9M",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aserca Airlines",
+            "code": "R7",
+            "is_lowcost": false,
+            "site": "http://www.asercaairlines.com"
+        },
+        {
+            "name": "Nesma Airlines",
+            "code": "NA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Arkia",
+            "code": "IZ",
+            "is_lowcost": false,
+            "site": "http://www.arkia.com"
+        },
+        {
+            "name": "Donavia",
+            "code": "D9",
+            "is_lowcost": false,
+            "site": "http://www.aeroflot-don.ru"
+        },
+        {
+            "name": "Zacarias Mornameo",
+            "code": "6M",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Antrak Air",
+            "code": "O4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Timor",
+            "code": "6C",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Wings Air",
+            "code": "IW",
+            "is_lowcost": true,
+            "site": "https://en.wikipedia.org/wiki/AOM_French_Airlines"
+        },
+        {
+            "name": "Executive Express Aviation LLC dbaSouthern Airways",
+            "code": "9X",
+            "is_lowcost": false,
+            "site": "http://www.italiweb.it"
+        },
+        {
+            "name": "Cobalt Air",
+            "code": "CO",
+            "is_lowcost": true,
+            "site": "http://www.continental.com"
+        },
+        {
+            "name": "Lift",
+            "code": "GE",
+            "is_lowcost": false,
+            "site": "http://www.tna.com.tw"
+        },
+        {
+            "name": "Wizz Air",
+            "code": "5W",
+            "is_lowcost": false,
+            "site": "http://www.flyastraeus.com"
+        },
+        {
+            "name": "Bassaka Air Limited",
+            "code": "5B",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Helijet",
+            "code": "JB",
+            "is_lowcost": false,
+            "site": "http://www.helijet.com"
+        },
+        {
+            "name": "Zagros Airlines",
+            "code": "ZV",
+            "is_lowcost": false,
+            "site": "http://www.midwestairlines.com"
+        },
+        {
+            "name": "Malawian Airlines",
+            "code": "3W",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Wright Air Service",
+            "code": "8V",
+            "is_lowcost": false,
+            "site": "http://www.astral-aviation.com"
+        },
+        {
+            "name": "C.A.I. First",
+            "code": "XM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "FlexFlight",
+            "code": "W2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Choice One",
+            "code": "3E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aviair",
+            "code": "GD",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Alpha_Greenland"
+        },
+        {
+            "name": "Cargojet Airways Ltd.",
+            "code": "W8",
+            "is_lowcost": false,
+            "site": "http://www.cargojet.com"
+        },
+        {
+            "name": "NYXAIR",
+            "code": "OJ",
+            "is_lowcost": false,
+            "site": "http://www.overland.aero"
+        },
+        {
+            "name": "A.P.G. Distribution System",
+            "code": "A1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Kuwait Airways",
+            "code": "KU",
+            "is_lowcost": false,
+            "site": "http://www.kuwaitairways.com"
+        },
+        {
+            "name": "Twin Jet",
+            "code": "T7",
+            "is_lowcost": false,
+            "site": "http://www.twinjet.fr"
+        },
+        {
+            "name": "Blue Bird Airways",
+            "code": "BZ",
+            "is_lowcost": false,
+            "site": "http://www.bluedartaviation.com"
+        },
+        {
+            "name": "SkyBahamas Airlines",
+            "code": "Q7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aerocaribbean",
+            "code": "7L",
+            "is_lowcost": false,
+            "site": "https://silkwaywest.com"
+        },
+        {
+            "name": "LAN Express",
+            "code": "LU",
+            "is_lowcost": false,
+            "site": "http://www.lan.com"
+        },
+        {
+            "name": "West Link Airlines",
+            "code": "9L",
+            "is_lowcost": false,
+            "site": "http://www.colganair.com"
+        },
+        {
+            "name": "MIAT Mongolian Airlines",
+            "code": "OM",
+            "is_lowcost": false,
+            "site": "http://www.miat.com"
+        },
+        {
+            "name": "Luxwing",
+            "code": "BN",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Braniff_International_Airways"
+        },
+        {
+            "name": "JetSMART",
+            "code": "WJ",
+            "is_lowcost": false,
+            "site": "http://www.webjet.com.br"
+        },
+        {
+            "name": "World Ticket Ltd",
+            "code": "W1",
+            "is_lowcost": false,
+            "site": "http://www.wdl-worldwide.de"
+        },
+        {
+            "name": "Air Anka",
+            "code": "6K",
+            "is_lowcost": false,
+            "site": "http://www.zestair.com.ph"
+        },
+        {
+            "name": "Eastern Airlines, LLC",
+            "code": "2D",
+            "is_lowcost": false,
+            "site": "https://iflyea.com"
+        },
+        {
+            "name": "Thai AirAsia X",
+            "code": "XJ",
+            "is_lowcost": true,
+            "site": "http://www.mesaba.com"
+        },
+        {
+            "name": "Moldavian Airlines",
+            "code": "2M",
+            "is_lowcost": false,
+            "site": "http://www.mdv.md"
+        },
+        {
+            "name": "Air Jet",
+            "code": "7A",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Boutique Air",
+            "code": "4B",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Iceland",
+            "code": "NY",
+            "is_lowcost": false,
+            "site": "http://www.airiceland.is"
+        },
+        {
+            "name": "Aero Contractors",
+            "code": "NG",
+            "is_lowcost": false,
+            "site": "http://www.laudaair.com"
+        },
+        {
+            "name": "Helvetic Airways",
+            "code": "2L",
+            "is_lowcost": true,
+            "site": "http://www.helvetic.com/en/Default.aspx"
+        },
+        {
+            "name": "Nolinor Aviation",
+            "code": "N5",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Australian Airlines",
+            "code": "AO",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Australian_Airlines"
+        },
+        {
+            "name": "AIX Connect",
+            "code": "I5",
+            "is_lowcost": true,
+            "site": "https://www.airasia.com"
+        },
+        {
+            "name": "Tailwind Airlines",
+            "code": "TI",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Tol_Air"
+        },
+        {
+            "name": "Precision Air",
+            "code": "PW",
+            "is_lowcost": false,
+            "site": "http://www.precisionairtz.com"
+        },
+        {
+            "name": "Air Japan",
+            "code": "NQ",
+            "is_lowcost": false,
+            "site": "http://www.air-japan.co.jp"
+        },
+        {
+            "name": "Ibex Airlines",
+            "code": "FW",
+            "is_lowcost": false,
+            "site": "http://www.ibexair.co.jp/english/"
+        },
+        {
+            "name": "AHK Air Hong Kong Limited",
+            "code": "LD",
+            "is_lowcost": false,
+            "site": "https://www.airhongkong.com.hk"
+        },
+        {
+            "name": "SKOL",
+            "code": "СД",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sun Air Express",
+            "code": "6G",
+            "is_lowcost": false,
+            "site": "http://www.airwales.co.uk"
+        },
+        {
+            "name": "Interstate Airlines",
+            "code": "I4",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Interstate_Airlines"
+        },
+        {
+            "name": "ASKY Airlines",
+            "code": "KP",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Kiwi_International_Air_Lines"
+        },
+        {
+            "name": "Frontier Airlines",
+            "code": "F9",
+            "is_lowcost": true,
+            "site": "https://www.flyfrontier.com/"
+        },
+        {
+            "name": "Avia Traffic Company",
+            "code": "YK",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "DAN AIR",
+            "code": "DN",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sun Country Airlines",
+            "code": "SY",
+            "is_lowcost": true,
+            "site": "https://www.suncountry.com"
+        },
+        {
+            "name": "Knamen Borek Air Ltd.",
+            "code": "4K",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Provincial Airlines",
+            "code": "PB",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sqiva Sistem",
+            "code": "Q1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tropic Air Limited",
+            "code": "9N",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Zapways, Inc.",
+            "code": "R1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "LATAM Brasil",
+            "code": "JJ",
+            "is_lowcost": false,
+            "site": "http://www.aviogenex.com"
+        },
+        {
+            "name": "Shirak Avia",
+            "code": "5G",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Skyservice_Airlines"
+        },
+        {
+            "name": "Air Tahiti",
+            "code": "VT",
+            "is_lowcost": false,
+            "site": "http://www.airtahiti.aero"
+        },
+        {
+            "name": "Qingdao Airlines",
+            "code": "QW",
+            "is_lowcost": false,
+            "site": "http://www.bluewings.com/cms/index.php?no_cache=1&id=191&L=1"
+        },
+        {
+            "name": "Federal Air",
+            "code": "7V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Copa Airlines",
+            "code": "CM",
+            "is_lowcost": false,
+            "site": "https://www.copaair.com"
+        },
+        {
+            "name": "Air Italy",
+            "code": "IG",
+            "is_lowcost": true,
+            "site": "https://www.airitaly.com"
+        },
+        {
+            "name": "L'Odyssey",
+            "code": "V9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/BAL_Bashkirian_Airlines"
+        },
+        {
+            "name": "FlyArystan",
+            "code": "0Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Maya Island Air",
+            "code": "MY",
+            "is_lowcost": false,
+            "site": "http://www.mwestairlines.com"
+        },
+        {
+            "name": "Everts Air Cargo",
+            "code": "5V",
+            "is_lowcost": false,
+            "site": "http://www.avia.lviv.ua"
+        },
+        {
+            "name": "Eswatini Air",
+            "code": "RN",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "KLM",
+            "code": "KL",
+            "is_lowcost": false,
+            "site": "http://www.klm.com"
+        },
+        {
+            "name": "Dniproavia",
+            "code": "Z6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SkyJet",
+            "code": "M8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "CemAir",
+            "code": "5Z",
+            "is_lowcost": false,
+            "site": "http://www.bismillahairlines.net"
+        },
+        {
+            "name": "Tajik Air",
+            "code": "7J",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Avior Airlines",
+            "code": "3R",
+            "is_lowcost": false,
+            "site": "http://www.ak3r.ru"
+        },
+        {
+            "name": "Mesa Airlines",
+            "code": "YV",
+            "is_lowcost": false,
+            "site": "https://www.mesa-air.com"
+        },
+        {
+            "name": "El Al Israel Airlines",
+            "code": "LY",
+            "is_lowcost": false,
+            "site": "https://www.elal.com"
+        },
+        {
+            "name": "Cnametrum Air",
+            "code": "C6",
+            "is_lowcost": false,
+            "site": "http://www.canjet.ca"
+        },
+        {
+            "name": "Israir Airlines",
+            "code": "6H",
+            "is_lowcost": false,
+            "site": "http://www.israirairlines.com"
+        },
+        {
+            "name": "Passaredo Transportes Aereos S.A.",
+            "code": "2Z",
+            "is_lowcost": false,
+            "site": "http://www.changanair.net"
+        },
+        {
+            "name": "Skywings Asia Airlines Co., Ltd.",
+            "code": "ZA",
+            "is_lowcost": false,
+            "site": "http://www.accessair.com"
+        },
+        {
+            "name": "Conquest Air, Inc.",
+            "code": "C4",
+            "is_lowcost": false,
+            "site": "http://www.zimex.ch"
+        },
+        {
+            "name": "Hahn Air Technologies",
+            "code": "X1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Premium Jet AG",
+            "code": "0J",
+            "is_lowcost": false,
+            "site": "http://www.jetclub.com"
+        },
+        {
+            "name": "American Eagle",
+            "code": "ZZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "airblue",
+            "code": "PA",
+            "is_lowcost": true,
+            "site": "http://www.flyfca.net"
+        },
+        {
+            "name": "Air Montnameegro",
+            "code": "YM",
+            "is_lowcost": false,
+            "site": "http://www.montenegroairlines.com/active/en/home.html"
+        },
+        {
+            "name": "Air Mauritius",
+            "code": "MK",
+            "is_lowcost": false,
+            "site": "http://airmauritius.com"
+        },
+        {
+            "name": "TUI Airlines Netherlands",
+            "code": "OR",
+            "is_lowcost": false,
+            "site": "https://www.tui.nl/vliegtickets/"
+        },
+        {
+            "name": "Laparkan Airways, Inc.",
+            "code": "LE",
+            "is_lowcost": false,
+            "site": "https://www.norwegian.com"
+        },
+        {
+            "name": "Mango",
+            "code": "JE",
+            "is_lowcost": true,
+            "site": "http://www.flymango.co.za"
+        },
+        {
+            "name": "JetHunter",
+            "code": "01",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Zimbabwe",
+            "code": "UM",
+            "is_lowcost": false,
+            "site": "http://www.airzimbabwe.aero/"
+        },
+        {
+            "name": "Air Caucasus",
+            "code": "UY",
+            "is_lowcost": false,
+            "site": "http://www.cameroon-airlines.net"
+        },
+        {
+            "name": "Air Nostrum",
+            "code": "YW",
+            "is_lowcost": false,
+            "site": "http://www.airnostrum.es/home.asp?idioma=2"
+        },
+        {
+            "name": "Siam Ga Co. Ltd.",
+            "code": "5E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Asia Atlantic Airlines",
+            "code": "HB",
+            "is_lowcost": false,
+            "site": "https://www.greaterbay-airlines.com"
+        },
+        {
+            "name": "Afrijet Business Service",
+            "code": "J7",
+            "is_lowcost": false,
+            "site": "http://www.centreavia.ru"
+        },
+        {
+            "name": "Abacus International Pte. Ltd.",
+            "code": "1B",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "iFly Airlines",
+            "code": "F7",
+            "is_lowcost": false,
+            "site": "http://www.flybaboo.com"
+        },
+        {
+            "name": "EasyJet Europe",
+            "code": "EC",
+            "is_lowcost": false,
+            "site": "https://www.easyjet.com"
+        },
+        {
+            "name": "NAYSA",
+            "code": "ZN",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lumiwings",
+            "code": "L9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Teamline_Air"
+        },
+        {
+            "name": "Thai Smile",
+            "code": "WE",
+            "is_lowcost": false,
+            "site": "http://www.centurioncargo.com"
+        },
+        {
+            "name": "SATA Air Acores",
+            "code": "SP",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/SATA_Air_Acores"
+        },
+        {
+            "name": "Air Dilijans",
+            "code": "RM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Rutas Aereas, C.A. dba  RUTACA",
+            "code": "5R",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Trans States Airlines",
+            "code": "AX",
+            "is_lowcost": false,
+            "site": "http://www.transstates.net"
+        },
+        {
+            "name": "Lion Air",
+            "code": "JT",
+            "is_lowcost": true,
+            "site": "https://www.lionair.co.id"
+        },
+        {
+            "name": "Airknameya Express",
+            "code": "P2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Amaszonas",
+            "code": "Z7",
+            "is_lowcost": false,
+            "site": "http://www.adcairlines.com"
+        },
+        {
+            "name": "PT. My Indo Airlines",
+            "code": "2Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Spring Airlines",
+            "code": "9C",
+            "is_lowcost": true,
+            "site": "https://www.ch.com"
+        },
+        {
+            "name": "Jetairfly",
+            "code": "TB",
+            "is_lowcost": true,
+            "site": "https://www.tuifly.be"
+        },
+        {
+            "name": "Air China",
+            "code": "CA",
+            "is_lowcost": false,
+            "site": "http://www.airchina.com"
+        },
+        {
+            "name": "Sylt Air GmbH",
+            "code": "7E",
+            "is_lowcost": false,
+            "site": "http://www.syltair.eu/englishversion/home_eng.html"
+        },
+        {
+            "name": "FlyOne",
+            "code": "5F",
+            "is_lowcost": false,
+            "site": "http://www.arcticcircleair.com"
+        },
+        {
+            "name": "ABX Air, Inc.",
+            "code": "GB",
+            "is_lowcost": false,
+            "site": "http://www.abxair.com"
+        },
+        {
+            "name": "Lucky Air",
+            "code": "8L",
+            "is_lowcost": true,
+            "site": "http://www.techno-sites.com/cargo/contact-us.htm"
+        },
+        {
+            "name": "TNT Airways",
+            "code": "3V",
+            "is_lowcost": false,
+            "site": "https://www.aslairlines.be/"
+        },
+        {
+            "name": "Transaero Airlines",
+            "code": "UN",
+            "is_lowcost": false,
+            "site": "http://transaero.ru/en"
+        },
+        {
+            "name": "Hebei Airlines",
+            "code": "NS",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Small Planet Airlines",
+            "code": "P7",
+            "is_lowcost": false,
+            "site": "http://www.rusky.ru"
+        },
+        {
+            "name": "Avianca Cargo",
+            "code": "QT",
+            "is_lowcost": false,
+            "site": "http://www.tampacargo.com"
+        },
+        {
+            "name": "Air Astana",
+            "code": "KC",
+            "is_lowcost": false,
+            "site": "http://www.airastana.com"
+        },
+        {
+            "name": "Wizz Air Ukraine",
+            "code": "WU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Allegiant Air",
+            "code": "G4",
+            "is_lowcost": true,
+            "site": "https://www.allegiantair.com"
+        },
+        {
+            "name": "Air India",
+            "code": "AI",
+            "is_lowcost": false,
+            "site": "https://www.airindia.com"
+        },
+        {
+            "name": "Jiangxi Air",
+            "code": "RY",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "DOT LT",
+            "code": "R6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "MNG Airlines",
+            "code": "MB",
+            "is_lowcost": false,
+            "site": "https://www.mngairlines.com"
+        },
+        {
+            "name": "Ryanair UK",
+            "code": "RK",
+            "is_lowcost": true,
+            "site": "http://www.royalkhmerairlines.com"
+        },
+        {
+            "name": "FITS Air",
+            "code": "8D",
+            "is_lowcost": false,
+            "site": "http://www.expoavi.com"
+        },
+        {
+            "name": "TACV Cabo Verde Airlines",
+            "code": "VR",
+            "is_lowcost": false,
+            "site": "http://www.flytacv.com/spip.php?page=sommaire&id_rubrique=2"
+        },
+        {
+            "name": "Czech Airlines",
+            "code": "OK",
+            "is_lowcost": false,
+            "site": "https://www.csa.cz"
+        },
+        {
+            "name": "FlyALS",
+            "code": "0F",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Fiji Airways",
+            "code": "FJ",
+            "is_lowcost": false,
+            "site": "https://www.fijiairways.com"
+        },
+        {
+            "name": "AnadoluJet",
+            "code": "0T",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nouvelair",
+            "code": "BJ",
+            "is_lowcost": false,
+            "site": "http://www.nouvelair.com"
+        },
+        {
+            "name": "RwandAir",
+            "code": "WB",
+            "is_lowcost": false,
+            "site": "http://www.rwandair.com"
+        },
+        {
+            "name": "Bringer Air Cargo",
+            "code": "E6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Trans-Mediterranean Airways",
+            "code": "N2",
+            "is_lowcost": false,
+            "site": "http://www.dagair.ru"
+        },
+        {
+            "name": "Cimber",
+            "code": "QA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TUIfly Nordic",
+            "code": "6B",
+            "is_lowcost": false,
+            "site": "http://www.tuiflynordic.se"
+        },
+        {
+            "name": "Raya Airways Sdn. Bhd.dba Raya Airways",
+            "code": "TH",
+            "is_lowcost": false,
+            "site": "http://www.transmile.com"
+        },
+        {
+            "name": "Sunwing Airlines",
+            "code": "WG",
+            "is_lowcost": true,
+            "site": "http://www.flysunwing.com"
+        },
+        {
+            "name": "StarFlyer",
+            "code": "7G",
+            "is_lowcost": true,
+            "site": "https://www.starflyer.jp"
+        },
+        {
+            "name": "China Postal Airlines Ltd.",
+            "code": "CF",
+            "is_lowcost": false,
+            "site": "http://www.cnpostair.com"
+        },
+        {
+            "name": "Primera Air",
+            "code": "PF",
+            "is_lowcost": false,
+            "site": "http://www.palairlines.com"
+        },
+        {
+            "name": "Premier Trans Aire Inc.",
+            "code": "3X",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Luxair",
+            "code": "LG",
+            "is_lowcost": false,
+            "site": "http://www.luxair.lu"
+        },
+        {
+            "name": "Qantas",
+            "code": "QF",
+            "is_lowcost": false,
+            "site": "https://www.qantas.com/"
+        },
+        {
+            "name": "NOVA Airlines",
+            "code": "O9",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nok Air",
+            "code": "DD",
+            "is_lowcost": true,
+            "site": "https://www.nokair.com/"
+        },
+        {
+            "name": "BH Air",
+            "code": "8H",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Travel Technology Interactive SA",
+            "code": "Y1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Azimut",
+            "code": "A4",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Southern_Winds_Airlines"
+        },
+        {
+            "name": "Thai AirAsia",
+            "code": "FD",
+            "is_lowcost": true,
+            "site": "http://www.airasia.com"
+        },
+        {
+            "name": "Merpati Nusantara Airlines",
+            "code": "MZ",
+            "is_lowcost": false,
+            "site": "http://www.merpati.co.id"
+        },
+        {
+            "name": "Public Charters",
+            "code": "P1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Philippine Airlines",
+            "code": "PR",
+            "is_lowcost": false,
+            "site": "http://www.philippineairlines.com"
+        },
+        {
+            "name": "Southern Air Charter",
+            "code": "PL",
+            "is_lowcost": false,
+            "site": "http://ekeko.rcp.net.pe/AEROPERU/ingles/indice.htm"
+        },
+        {
+            "name": "Air Uganda",
+            "code": "U7",
+            "is_lowcost": false,
+            "site": "http://www.usajetairlines.com"
+        },
+        {
+            "name": "Air Sunshine Inc.",
+            "code": "YI",
+            "is_lowcost": false,
+            "site": "http://www.airsunshine.com"
+        },
+        {
+            "name": "Lynx Aviation",
+            "code": "L3",
+            "is_lowcost": false,
+            "site": "http://www.dhl.com"
+        },
+        {
+            "name": "Polar Air Cargo Worldwide, Inc.",
+            "code": "PO",
+            "is_lowcost": false,
+            "site": "http://www.polaraircargo.com"
+        },
+        {
+            "name": "easyJet Switzerland",
+            "code": "DS",
+            "is_lowcost": true,
+            "site": "https://www.easyjet.com"
+        },
+        {
+            "name": "Flightlink",
+            "code": "YS",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Hahn Air",
+            "code": "H1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Norwegian Air",
+            "code": "DI",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/DBA_(airline)"
+        },
+        {
+            "name": "Panorama Airways",
+            "code": "5P",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "LASER Airlines",
+            "code": "QL",
+            "is_lowcost": false,
+            "site": "http://www.aerolanka.aero"
+        },
+        {
+            "name": "Gol Transportes A\u00e9reos",
+            "code": "G3",
+            "is_lowcost": true,
+            "site": "https://www.voegol.com.br"
+        },
+        {
+            "name": "Frnamech Armed Forces",
+            "code": "RD",
+            "is_lowcost": false,
+            "site": "http://www.flyryan.com"
+        },
+        {
+            "name": "Airlink",
+            "code": "4Z",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "South African Airways",
+            "code": "SA",
+            "is_lowcost": false,
+            "site": "https://www.flysaa.com"
+        },
+        {
+            "name": "Etihad Airways",
+            "code": "EY",
+            "is_lowcost": false,
+            "site": "https://www.etihad.com"
+        },
+        {
+            "name": "Tus Airways",
+            "code": "U8",
+            "is_lowcost": false,
+            "site": "http://www.armavia.am"
+        },
+        {
+            "name": "AIS Airlines",
+            "code": "0C",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Stabo Air Limited",
+            "code": "4E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Iliamna Air Taxi Inc.",
+            "code": "V8",
+            "is_lowcost": false,
+            "site": "http://www.atran.ru"
+        },
+        {
+            "name": "British Airways",
+            "code": "BA",
+            "is_lowcost": false,
+            "site": "https://www.britishairways.com"
+        },
+        {
+            "name": "fly2sky",
+            "code": "F6",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/FaroeJet"
+        },
+        {
+            "name": "Jetstar Japan",
+            "code": "GK",
+            "is_lowcost": true,
+            "site": "https://www.jetstar.com/jp/en/home"
+        },
+        {
+            "name": "Air Rarotonga",
+            "code": "GZ",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Rarotonga"
+        },
+        {
+            "name": "Skyward Express",
+            "code": "OW",
+            "is_lowcost": false,
+            "site": "http://www.aa.com/content/footer/eagleOverview.jhtml"
+        },
+        {
+            "name": "Videcom International Limited",
+            "code": "U1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "T'way Air",
+            "code": "TW",
+            "is_lowcost": true,
+            "site": "https://www.twayair.com"
+        },
+        {
+            "name": "IBS Software Services Americas, Inc.",
+            "code": "V1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AccesRail",
+            "code": "9B",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jet Ops",
+            "code": "J6",
+            "is_lowcost": false,
+            "site": "http://www.voecruiser.com.br"
+        },
+        {
+            "name": "UVT Aero",
+            "code": "RT",
+            "is_lowcost": false,
+            "site": "http://www.rakairways.com"
+        },
+        {
+            "name": "Lufthansa CityLine",
+            "code": "CL",
+            "is_lowcost": false,
+            "site": "http://www.lufthansacityline.com"
+        },
+        {
+            "name": "Atlasjet Ukraine",
+            "code": "UH",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Blue1",
+            "code": "KF",
+            "is_lowcost": false,
+            "site": "http://www.blue1.com"
+        },
+        {
+            "name": "Kan Air",
+            "code": "K8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "ASL Airlines France",
+            "code": "5O",
+            "is_lowcost": false,
+            "site": "https://www.aslairlines.fr"
+        },
+        {
+            "name": "China Southern Airlines",
+            "code": "CZ",
+            "is_lowcost": false,
+            "site": "https://www.csair.com"
+        },
+        {
+            "name": "Komiaviatrans",
+            "code": "\u0418\u0413",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Iberojet",
+            "code": "E9",
+            "is_lowcost": false,
+            "site": "http://www.flypanam.com"
+        },
+        {
+            "name": "Ruili Airlines",
+            "code": "DR",
+            "is_lowcost": true,
+            "site": "http://www.air-mediterranee.fr"
+        },
+        {
+            "name": "GoJet Airlines",
+            "code": "G7",
+            "is_lowcost": false,
+            "site": "http://www.gojetairlines.com"
+        },
+        {
+            "name": "Azur Air",
+            "code": "ZF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Regional Air Services",
+            "code": "8N",
+            "is_lowcost": false,
+            "site": "http://www.barentsairlink.se"
+        },
+        {
+            "name": "Ethiopian Airlines",
+            "code": "ET",
+            "is_lowcost": false,
+            "site": "https://www.ethiopianairlines.com"
+        },
+        {
+            "name": "Bees Airline",
+            "code": "7B",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/KrasAir"
+        },
+        {
+            "name": "XL Airways France",
+            "code": "SE",
+            "is_lowcost": false,
+            "site": "https://www.xl.com"
+        },
+        {
+            "name": "Air Samarkand",
+            "code": "9S",
+            "is_lowcost": false,
+            "site": "https://www.southernair.com"
+        },
+        {
+            "name": "Tunisair",
+            "code": "TU",
+            "is_lowcost": false,
+            "site": "http://tunisair.com"
+        },
+        {
+            "name": "Mann Yadanarpon Airlines",
+            "code": "7Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Flyadeal",
+            "code": "F3",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Faso_Airways"
+        },
+        {
+            "name": "LAN COLOMBIA AIRLINES",
+            "code": "4C",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/LATAM_Colombia"
+        },
+        {
+            "name": "Swoop",
+            "code": "WO",
+            "is_lowcost": false,
+            "site": "https://www.flyswoop.com"
+        },
+        {
+            "name": "Thai Lion Air",
+            "code": "SL",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "China Airlines",
+            "code": "CI",
+            "is_lowcost": false,
+            "site": "https://www.china-airlines.com"
+        },
+        {
+            "name": "Korongo Airlines",
+            "code": "ZC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sharp Airlines",
+            "code": "SH",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/FlyMe"
+        },
+        {
+            "name": "Mavi Gok Airlines",
+            "code": "4M",
+            "is_lowcost": false,
+            "site": "http://www.lan.com"
+        },
+        {
+            "name": "Air Mobility Command",
+            "code": "MC",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Mobility_Command"
+        },
+        {
+            "name": "Andes Lineas Aereas",
+            "code": "OY",
+            "is_lowcost": false,
+            "site": "https://www.oai.aero"
+        },
+        {
+            "name": "Pan American World Airways",
+            "code": "7N",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "KrasAvia",
+            "code": "KV",
+            "is_lowcost": false,
+            "site": "http://skyregional.com"
+        },
+        {
+            "name": "Euroairlines",
+            "code": "Q4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lanmei Airlines",
+            "code": "LQ",
+            "is_lowcost": false,
+            "site": "http://www.lat.com.lb"
+        },
+        {
+            "name": "Air Montnameegro",
+            "code": "4O",
+            "is_lowcost": false,
+            "site": "http://www.interjet.com.mx"
+        },
+        {
+            "name": "Wamos Air",
+            "code": "EB",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Georgian Wings",
+            "code": "D4",
+            "is_lowcost": false,
+            "site": "http://www.alidaunia.it"
+        },
+        {
+            "name": "TransNusa",
+            "code": "8B",
+            "is_lowcost": false,
+            "site": "http://www.flycaribbeanstar.com"
+        },
+        {
+            "name": "Hi Fly Ltd",
+            "code": "5M",
+            "is_lowcost": false,
+            "site": "http://www.siat.ru"
+        },
+        {
+            "name": "Japan Transocean Air",
+            "code": "NU",
+            "is_lowcost": false,
+            "site": "https://jta-okinawa.com"
+        },
+        {
+            "name": "Tunisair Express",
+            "code": "UG",
+            "is_lowcost": false,
+            "site": "https://www.tunisairexpress.net"
+        },
+        {
+            "name": "NokScoot",
+            "code": "XW",
+            "is_lowcost": true,
+            "site": "https://www.nokscoot.com/"
+        },
+        {
+            "name": "Rossiya Airlines",
+            "code": "FV",
+            "is_lowcost": false,
+            "site": "http://www.pulkovo.ru"
+        },
+        {
+            "name": "Air Antilles Express",
+            "code": "3S",
+            "is_lowcost": false,
+            "site": "http://www.aeroland.gr"
+        },
+        {
+            "name": "Air Alps Aviation",
+            "code": "A6",
+            "is_lowcost": false,
+            "site": "http://www.airalps.at"
+        },
+        {
+            "name": "JetBlue Airways",
+            "code": "B6",
+            "is_lowcost": true,
+            "site": "https://www.jetblue.com"
+        },
+        {
+            "name": "Electronic Data Systems Corporation",
+            "code": "1Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SATA",
+            "code": "S4",
+            "is_lowcost": false,
+            "site": "http://www.sata.pt"
+        },
+        {
+            "name": "Jet Lite",
+            "code": "S2",
+            "is_lowcost": true,
+            "site": "http://www.jetlite.com"
+        },
+        {
+            "name": "Solomon Airlines",
+            "code": "IE",
+            "is_lowcost": false,
+            "site": "http://www.solomonairlines.com.au"
+        },
+        {
+            "name": "Air KBZ",
+            "code": "K7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "La Compagnie",
+            "code": "B0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sabre Inc.",
+            "code": "1S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Norse Atlantic UK",
+            "code": "Z0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Palau National Airlines",
+            "code": "4L",
+            "is_lowcost": false,
+            "site": "https://www.lascargo.com"
+        },
+        {
+            "name": "Qeshm Air",
+            "code": "QB",
+            "is_lowcost": false,
+            "site": "http://www.skygeorgia.org"
+        },
+        {
+            "name": "Brindabella Airlines",
+            "code": "FQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "OAG",
+            "code": "CR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Taiga",
+            "code": "\u0422\u0413",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AirAsia X",
+            "code": "D7",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Rotana Jet",
+            "code": "RG",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Varig"
+        },
+        {
+            "name": "Air Koryo",
+            "code": "JS",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Austrian Airlines",
+            "code": "OS",
+            "is_lowcost": false,
+            "site": "https://www.austrian.com"
+        },
+        {
+            "name": "Telair International GmbH",
+            "code": "T8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tibet Airlines",
+            "code": "TV",
+            "is_lowcost": false,
+            "site": "http://www.virginexpress.com"
+        },
+        {
+            "name": "Linea Aerea Carguera de Colombia S.A.",
+            "code": "L7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AeroItalia",
+            "code": "XZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Adria Airways",
+            "code": "JP",
+            "is_lowcost": false,
+            "site": "http://www.adria.si"
+        },
+        {
+            "name": "Sky-Taxi",
+            "code": "TE",
+            "is_lowcost": false,
+            "site": "http://www.flyLAL.com"
+        },
+        {
+            "name": "Hydro - Quebec",
+            "code": "0Q",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sunrise Airways",
+            "code": "S6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "China Eastern Airlines",
+            "code": "MU",
+            "is_lowcost": false,
+            "site": "http://www.ceair.com"
+        },
+        {
+            "name": "Air North Charter and Training Ltd.",
+            "code": "4N",
+            "is_lowcost": false,
+            "site": "http://www.flyairnorth.com"
+        },
+        {
+            "name": "Air Burkina",
+            "code": "2J",
+            "is_lowcost": false,
+            "site": "http://www.air-burkina.com"
+        },
+        {
+            "name": "US-Bangla Airlines",
+            "code": "BS",
+            "is_lowcost": false,
+            "site": "http://www.islesofscillyhelicopter.com"
+        },
+        {
+            "name": "MYAirline",
+            "code": "Z9",
+            "is_lowcost": false,
+            "site": "https://bekair.aero"
+        },
+        {
+            "name": "Azur Air Ukraine",
+            "code": "QU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "BADR AIRLINES",
+            "code": "J4",
+            "is_lowcost": false,
+            "site": "https://buffaloairways.com"
+        },
+        {
+            "name": "Air Premia",
+            "code": "YP",
+            "is_lowcost": false,
+            "site": "https://airpremia.com"
+        },
+        {
+            "name": "Eurowings",
+            "code": "EW",
+            "is_lowcost": true,
+            "site": "http://www.eurowings.com/en/"
+        },
+        {
+            "name": "Air Vanuatu",
+            "code": "NF",
+            "is_lowcost": false,
+            "site": "http://www.airvanuatu.com"
+        },
+        {
+            "name": "Danish Air Transport",
+            "code": "DX",
+            "is_lowcost": false,
+            "site": "http://www.dat.dk/eng/home.htm"
+        },
+        {
+            "name": "Speed train",
+            "code": "0U",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Norwegian Air International",
+            "code": "D8",
+            "is_lowcost": false,
+            "site": "https://www.norwegian.com"
+        },
+        {
+            "name": "Hong Kong Express Airways",
+            "code": "UO",
+            "is_lowcost": true,
+            "site": "https://www.hkexpress.com"
+        },
+        {
+            "name": "Sunsplash Aviation, LLC.",
+            "code": "YH",
+            "is_lowcost": false,
+            "site": "http://www.wca.com.co"
+        },
+        {
+            "name": "Monacair",
+            "code": "QM",
+            "is_lowcost": false,
+            "site": "http://www.airmalawi.com"
+        },
+        {
+            "name": "Sky Lease I, Inc.",
+            "code": "GG",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Cargo_360"
+        },
+        {
+            "name": "BRA",
+            "code": "TF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sabre Pacific",
+            "code": "1Z",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Anguilla Air",
+            "code": "Q3",
+            "is_lowcost": false,
+            "site": "http://www.zambianairways.com"
+        },
+        {
+            "name": "MyWay Airlines",
+            "code": "MJ",
+            "is_lowcost": true,
+            "site": "http://www.lapa.com.ar"
+        },
+        {
+            "name": "Jet Airways Inc.",
+            "code": "QJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Up Israel",
+            "code": "86",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Alaska Seaplane",
+            "code": "J5",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Island Air",
+            "code": "WP",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Elite Airways",
+            "code": "7Q",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Volaris",
+            "code": "Y4",
+            "is_lowcost": true,
+            "site": "https://www.volaris.com"
+        },
+        {
+            "name": "Trade Air",
+            "code": "C3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Regional Express",
+            "code": "ZL",
+            "is_lowcost": false,
+            "site": "http://www.rex.com.au"
+        },
+        {
+            "name": "SNCF",
+            "code": "2C",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Transavia",
+            "code": "HV",
+            "is_lowcost": true,
+            "site": "https://www.transavia.com"
+        },
+        {
+            "name": "Key Lime Air",
+            "code": "KG",
+            "is_lowcost": false,
+            "site": "https://www.keylimeair.com"
+        },
+        {
+            "name": "Alliance Airlines",
+            "code": "QQ",
+            "is_lowcost": false,
+            "site": "http://www.allianceairlines.com.au"
+        },
+        {
+            "name": "Major Airline",
+            "code": "XX",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SkyWest Airlines",
+            "code": "OO",
+            "is_lowcost": false,
+            "site": "https://www.skywest.com"
+        },
+        {
+            "name": "Air Service Liege",
+            "code": "L4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aero-Charter Ukraine",
+            "code": "DW",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Auric Air",
+            "code": "UI",
+            "is_lowcost": false,
+            "site": "http://www.eurocypria.com"
+        },
+        {
+            "name": "Orange Air, LLCN/A",
+            "code": "O3",
+            "is_lowcost": false,
+            "site": "https://www.sf-airlines.com"
+        },
+        {
+            "name": "Panama Airways",
+            "code": "8A",
+            "is_lowcost": false,
+            "site": "http://www.royalairmaroc.com"
+        },
+        {
+            "name": "H\u00e9li S\u00e9curit\u00e9 H\u00e9licopter Airline",
+            "code": "HS",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SITA - Airlines WorldwideTelecommunications and Information Svcs",
+            "code": "XS",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/SITA_(company)"
+        },
+        {
+            "name": "Jetlink Express",
+            "code": "J0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "DHL Aviation EEMEA B.S.C.(c)",
+            "code": "ES",
+            "is_lowcost": false,
+            "site": "http://www.dhl.com"
+        },
+        {
+            "name": "KLM Cityhopper",
+            "code": "WA",
+            "is_lowcost": false,
+            "site": "http://www.klmcityhopper.com"
+        },
+        {
+            "name": "HOP!",
+            "code": "A5",
+            "is_lowcost": false,
+            "site": "http://www.hop.com"
+        },
+        {
+            "name": "Lodyssey",
+            "code": "0L",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Caledonie",
+            "code": "TY",
+            "is_lowcost": false,
+            "site": "https://www.air-caledonie.nc"
+        },
+        {
+            "name": "Buta Airways",
+            "code": "55",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tigerair Taiwan",
+            "code": "IT",
+            "is_lowcost": true,
+            "site": "https://www.tigerairtw.com"
+        },
+        {
+            "name": "Canaryfly",
+            "code": "PM",
+            "is_lowcost": false,
+            "site": "http://www.tropicair.com"
+        },
+        {
+            "name": "Loganair",
+            "code": "LM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AirAsia Zest",
+            "code": "Z2",
+            "is_lowcost": false,
+            "site": "http://www.airasia.com/ph/en/home.page"
+        },
+        {
+            "name": "ExpressJet",
+            "code": "EV",
+            "is_lowcost": false,
+            "site": "https://www.expressjet.com"
+        },
+        {
+            "name": "TezJet",
+            "code": "K9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Krylo_Airlines"
+        },
+        {
+            "name": "nameter Air",
+            "code": "E4",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Aero_Asia_International"
+        },
+        {
+            "name": "Air Arabia Jordan",
+            "code": "9P",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "TUI fly",
+            "code": "X3",
+            "is_lowcost": true,
+            "site": "https://tuifly.com"
+        },
+        {
+            "name": "DHL Aero Expreso S.A.",
+            "code": "D5",
+            "is_lowcost": false,
+            "site": "http://www.dauair.com"
+        },
+        {
+            "name": "Russian Railways",
+            "code": "R0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "GlobeAir",
+            "code": "0K",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Amaszonas",
+            "code": "Z8",
+            "is_lowcost": false,
+            "site": "https://www.amaszonas.com"
+        },
+        {
+            "name": "WOW Air ehf",
+            "code": "WW",
+            "is_lowcost": true,
+            "site": "http://wowair.com"
+        },
+        {
+            "name": "Air Algerie",
+            "code": "AH",
+            "is_lowcost": false,
+            "site": "http://www.airalgerie.dz"
+        },
+        {
+            "name": "Emetebe",
+            "code": "0A",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sun-Air of Scandinavia",
+            "code": "EZ",
+            "is_lowcost": false,
+            "site": "http://www.evergreenairlines.com"
+        },
+        {
+            "name": "Air Arabia Egypt",
+            "code": "E5",
+            "is_lowcost": true,
+            "site": "http://www.samara-airlines.ru"
+        },
+        {
+            "name": "Bulgaria Air",
+            "code": "FB",
+            "is_lowcost": false,
+            "site": "http://www.air.bg"
+        },
+        {
+            "name": "Corsair International",
+            "code": "SS",
+            "is_lowcost": false,
+            "site": "https://www.flycorsair.com"
+        },
+        {
+            "name": "Chalair Aviation",
+            "code": "CE",
+            "is_lowcost": false,
+            "site": "http://www.flynationwide.co.za"
+        },
+        {
+            "name": "Malta Air",
+            "code": "AL",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "JetAir Caribbean",
+            "code": "4J",
+            "is_lowcost": false,
+            "site": "http://www.somonair.com"
+        },
+        {
+            "name": "PT Kal Star Aviation",
+            "code": "KD",
+            "is_lowcost": false,
+            "site": "https://www.westernglobalairlines.com"
+        },
+        {
+            "name": "Bul Air",
+            "code": "LB",
+            "is_lowcost": false,
+            "site": "http://www.labairlines.com.bo"
+        },
+        {
+            "name": "Jet Asia Airways",
+            "code": "JF",
+            "is_lowcost": false,
+            "site": "http://www.labflying.com"
+        },
+        {
+            "name": "Hunnu Air",
+            "code": "MR",
+            "is_lowcost": false,
+            "site": "http://www.airmauritanie.mr"
+        },
+        {
+            "name": "Air Saint Pierre",
+            "code": "PJ",
+            "is_lowcost": false,
+            "site": "http://www.airsaintpierre.com"
+        },
+        {
+            "name": "Camair-Co",
+            "code": "QC",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Corridor"
+        },
+        {
+            "name": "Maluti Sky",
+            "code": "7D",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TAR Aerol\u00edneas",
+            "code": "YQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tianjin Airlines",
+            "code": "GS",
+            "is_lowcost": false,
+            "site": "http://www.tianjin-air.com"
+        },
+        {
+            "name": "Kyrgyz Air",
+            "code": "KH",
+            "is_lowcost": false,
+            "site": "https://www.alohaaircargo.com"
+        },
+        {
+            "name": "Buzz",
+            "code": "RR",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Royal_Air_Force"
+        },
+        {
+            "name": "ARINC(Aeronautical Radio, Inc.)",
+            "code": "XA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cityjet",
+            "code": "WX",
+            "is_lowcost": false,
+            "site": "http://www.cityjet.com"
+        },
+        {
+            "name": "Japan Air Commuter",
+            "code": "JC",
+            "is_lowcost": false,
+            "site": "http://www.jal.co.jp/jex"
+        },
+        {
+            "name": "Ural Airlines",
+            "code": "U6",
+            "is_lowcost": false,
+            "site": "https://www.uralairlines.ru/en/"
+        },
+        {
+            "name": "Niger Airlines",
+            "code": "6N",
+            "is_lowcost": false,
+            "site": "http://www.nordicregional.se"
+        },
+        {
+            "name": "Uganda Airlines",
+            "code": "UR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "First Air",
+            "code": "7F",
+            "is_lowcost": false,
+            "site": "http://www.firstair.ca"
+        },
+        {
+            "name": "Caribbean Air Export Import Inc.",
+            "code": "CB",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Laudamotion",
+            "code": "OE",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SCAT",
+            "code": "DV",
+            "is_lowcost": false,
+            "site": "http://www.nantucketairlines.com"
+        },
+        {
+            "name": "Axess International Network Inc.",
+            "code": "1J",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aeromar",
+            "code": "VW",
+            "is_lowcost": false,
+            "site": "https://www.aeromar.mx"
+        },
+        {
+            "name": "South East Asian Airlines (SEAIR)International, Inc.",
+            "code": "XO",
+            "is_lowcost": true,
+            "site": "http://www.chinaxinhuaair.com"
+        },
+        {
+            "name": "Hawaiian Airlines",
+            "code": "HA",
+            "is_lowcost": false,
+            "site": "https://www.hawaiianairlines.com"
+        },
+        {
+            "name": "Wizz Air",
+            "code": "W6",
+            "is_lowcost": true,
+            "site": "https://wizzair.com/"
+        },
+        {
+            "name": "Passaredo Linhas Aereas",
+            "code": "P3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tigerair Australia",
+            "code": "TT",
+            "is_lowcost": true,
+            "site": "https://tigerair.com.au/"
+        },
+        {
+            "name": "Flybusteam",
+            "code": "\u0413\u042d",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Warbelow's Air Vnametures",
+            "code": "4W",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TACA Peru",
+            "code": "T0",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Thai Airways",
+            "code": "TG",
+            "is_lowcost": false,
+            "site": "https://www.thaiairways.com"
+        },
+        {
+            "name": "Jazeera Airways",
+            "code": "J9",
+            "is_lowcost": true,
+            "site": "https://www.jazeeraairways.com"
+        },
+        {
+            "name": "Myanmar Airways International",
+            "code": "8M",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Maxair_(airline)"
+        },
+        {
+            "name": "Ravn Alaska",
+            "code": "7H",
+            "is_lowcost": true,
+            "site": "http://www.flyravn.com"
+        },
+        {
+            "name": "Redemption Inc.",
+            "code": "2O",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AS SALAAM AIR",
+            "code": "0W",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Iran Air",
+            "code": "IR",
+            "is_lowcost": false,
+            "site": "http://www.iranair.com"
+        },
+        {
+            "name": "Alaska Airlines",
+            "code": "AS",
+            "is_lowcost": false,
+            "site": "https://www.alaskaair.com"
+        },
+        {
+            "name": "Rnameegade Air",
+            "code": "0R",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Eastern Airways",
+            "code": "T3",
+            "is_lowcost": false,
+            "site": "http://www.easternairways.com"
+        },
+        {
+            "name": "Blue Air",
+            "code": "0B",
+            "is_lowcost": true,
+            "site": "https://www.blueairweb.com"
+        },
+        {
+            "name": "VietjetAir",
+            "code": "VJ",
+            "is_lowcost": true,
+            "site": "https://www.vietjetair.com"
+        },
+        {
+            "name": "ITA Software Inc.",
+            "code": "1U",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Thomson Airways",
+            "code": "BY",
+            "is_lowcost": false,
+            "site": "https://www.tui.co.uk/flight/"
+        },
+        {
+            "name": "ChallnamegAir",
+            "code": "1I",
+            "is_lowcost": false,
+            "site": "https://www.netjets.com"
+        },
+        {
+            "name": "Royal Brunei",
+            "code": "BI",
+            "is_lowcost": false,
+            "site": "http://www.bruneiair.com"
+        },
+        {
+            "name": "Volaris Costa Rica",
+            "code": "Q6",
+            "is_lowcost": true,
+            "site": "http://www.aerocondor.com.pe"
+        },
+        {
+            "name": "Frnamech Bee",
+            "code": "BF",
+            "is_lowcost": false,
+            "site": "http://www.bluebirdcargo.com"
+        },
+        {
+            "name": "Air Cargo Carriers, LLC.",
+            "code": "2Q",
+            "is_lowcost": false,
+            "site": "https://www.aircargocarriers.com"
+        },
+        {
+            "name": "Belair Airlines",
+            "code": "4T",
+            "is_lowcost": false,
+            "site": "http://www.airberlin.com"
+        },
+        {
+            "name": "Brussels Airlines",
+            "code": "SN",
+            "is_lowcost": false,
+            "site": "http://www.brusselsairlines.com"
+        },
+        {
+            "name": "Great Lakes Airlines",
+            "code": "ZK",
+            "is_lowcost": false,
+            "site": "http://www.flygreatlakes.com"
+        },
+        {
+            "name": "Silver Air",
+            "code": "0P",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Uni-Top Airlines",
+            "code": "UW",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Super Air Jet",
+            "code": "IU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Yemnameia",
+            "code": "IY",
+            "is_lowcost": false,
+            "site": "http://www.yemenia.com"
+        },
+        {
+            "name": "Nippon Cargo Airlines",
+            "code": "KZ",
+            "is_lowcost": false,
+            "site": "http://www.nca.aero"
+        },
+        {
+            "name": "NAM Air",
+            "code": "IN",
+            "is_lowcost": false,
+            "site": "http://www.mat.com.mk"
+        },
+        {
+            "name": "Air Madagascar",
+            "code": "MD",
+            "is_lowcost": false,
+            "site": "http://www.airmadagascar.com/index.html"
+        },
+        {
+            "name": "Libyan Airlines",
+            "code": "LN",
+            "is_lowcost": false,
+            "site": "http://www.ln.aero"
+        },
+        {
+            "name": "European Air Transport",
+            "code": "QY",
+            "is_lowcost": false,
+            "site": "https://www.dhl.com"
+        },
+        {
+            "name": "Aklak Air",
+            "code": "6L",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Angara Airlines",
+            "code": "2G",
+            "is_lowcost": false,
+            "site": "http://www.cargoitalia.it"
+        },
+        {
+            "name": "Transavia",
+            "code": "TO",
+            "is_lowcost": true,
+            "site": "https://www.transavia.com"
+        },
+        {
+            "name": "Breeze Airways",
+            "code": "MX",
+            "is_lowcost": false,
+            "site": "http://www.mexicana.com"
+        },
+        {
+            "name": "Myanmar National Airlines",
+            "code": "UB",
+            "is_lowcost": false,
+            "site": "http://www.mot.gov.mm/ma/index.html"
+        },
+        {
+            "name": "Wings of Lebanon S.a.l",
+            "code": "W7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Apsara International Air",
+            "code": "IP",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Atyrau_Airways"
+        },
+        {
+            "name": "Air Serbia",
+            "code": "JU",
+            "is_lowcost": false,
+            "site": "https://www.airserbia.com"
+        },
+        {
+            "name": "Somon Air",
+            "code": "SZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Alpine Aviation Inc.",
+            "code": "5A",
+            "is_lowcost": false,
+            "site": "https://www.alpine-air.com"
+        },
+        {
+            "name": "Nas Air",
+            "code": "XY",
+            "is_lowcost": true,
+            "site": "https://www.flynas.com"
+        },
+        {
+            "name": "Villa Air",
+            "code": "VP",
+            "is_lowcost": false,
+            "site": "http://www.vasp.com.br"
+        },
+        {
+            "name": "IrAero",
+            "code": "IO",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Indonesian_Airlines"
+        },
+        {
+            "name": "Dobrolet",
+            "code": "QD",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "STP Airways",
+            "code": "8F",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Fischer_Air"
+        },
+        {
+            "name": "Air Corsica",
+            "code": "XK",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "BQB Lineas Aereas",
+            "code": "5Q",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Beijing Capital Airlines",
+            "code": "JD",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Flamnameco",
+            "code": "F4",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Albarka_Air"
+        },
+        {
+            "name": "Air New Zealand",
+            "code": "NZ",
+            "is_lowcost": false,
+            "site": "https://www.airnewzealand.com"
+        },
+        {
+            "name": "Bermudair",
+            "code": "2T",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Haiti_Ambassador_Airlines"
+        },
+        {
+            "name": "Spirit Airlines",
+            "code": "NK",
+            "is_lowcost": true,
+            "site": "https://www.spirit.com"
+        },
+        {
+            "name": "Germanwings",
+            "code": "4U",
+            "is_lowcost": true,
+            "site": "http://www.germanwings.com"
+        },
+        {
+            "name": "Urumqi Air",
+            "code": "UQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Excursion, LLC",
+            "code": "X4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Shandong Airlines",
+            "code": "SC",
+            "is_lowcost": false,
+            "site": "http://www.shandongair.com.cn"
+        },
+        {
+            "name": "Silk Way Airlines",
+            "code": "ZP",
+            "is_lowcost": false,
+            "site": "http://www.silkway-airlines.com"
+        },
+        {
+            "name": "Air Macau",
+            "code": "NX",
+            "is_lowcost": false,
+            "site": "https://www.airmacau.com.mo"
+        },
+        {
+            "name": "Lufthansa Systems",
+            "code": "S1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nordwind Airlines",
+            "code": "N4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Iberia",
+            "code": "IB",
+            "is_lowcost": false,
+            "site": "https://www.iberia.com"
+        },
+        {
+            "name": "Vologda Air",
+            "code": "\u0412\u0413",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Deutsche Bahn AG",
+            "code": "2A",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Vista Georgia",
+            "code": "GT",
+            "is_lowcost": false,
+            "site": "http://www.gbairways.co.uk"
+        },
+        {
+            "name": "Jonika Airlines",
+            "code": "JO",
+            "is_lowcost": false,
+            "site": "http://www.jalways.co.jp/english"
+        },
+        {
+            "name": "Ellinair",
+            "code": "EL",
+            "is_lowcost": false,
+            "site": "http://www.air-nippon.co.jp"
+        },
+        {
+            "name": "Aerol\u00edneas Sosa",
+            "code": "P4",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Indonesia AirAsia",
+            "code": "QZ",
+            "is_lowcost": true,
+            "site": "http://www.airasia.com"
+        },
+        {
+            "name": "Aigle Azur",
+            "code": "ZI",
+            "is_lowcost": false,
+            "site": "http://www.aigle-azur.fr"
+        },
+        {
+            "name": "Air Kiribati Limited",
+            "code": "IK",
+            "is_lowcost": false,
+            "site": "http://www.imair.com"
+        },
+        {
+            "name": "Air Tahiti Nui",
+            "code": "TN",
+            "is_lowcost": false,
+            "site": "https://www.airtahitinui.com"
+        },
+        {
+            "name": "Worldspan",
+            "code": "1P",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Norse Atlantic Airways",
+            "code": "N0",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sun d'Or International Airlines",
+            "code": "2U",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Guinee_Express"
+        },
+        {
+            "name": "Lao Skyway",
+            "code": "LK",
+            "is_lowcost": false,
+            "site": "http://www.airluxor.com"
+        },
+        {
+            "name": "Aegean Airlines",
+            "code": "A3",
+            "is_lowcost": false,
+            "site": "https://aegeanair.com"
+        },
+        {
+            "name": "IATA - Clearing HouseInternational Air Transport Association",
+            "code": "XB",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "East African Safari Air",
+            "code": "B5",
+            "is_lowcost": false,
+            "site": "http://www.bookeastafrican.com"
+        },
+        {
+            "name": "Maldivian",
+            "code": "Q2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Brit Air",
+            "code": "DB",
+            "is_lowcost": false,
+            "site": "http://www.britair.com"
+        },
+        {
+            "name": "Marsland Aviation",
+            "code": "M7",
+            "is_lowcost": false,
+            "site": "https://www.masair.com"
+        },
+        {
+            "name": "Discovery Airways",
+            "code": "DO",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Heli Air Monaco",
+            "code": "YO",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "K-Mile Air Co. Ltd",
+            "code": "8K",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "AVANZA",
+            "code": "6V",
+            "is_lowcost": false,
+            "site": "http://www.fly-axis.com"
+        },
+        {
+            "name": "Cape Air",
+            "code": "9K",
+            "is_lowcost": false,
+            "site": "http://www.capeair.com"
+        },
+        {
+            "name": "Malaysia Airlines",
+            "code": "MH",
+            "is_lowcost": false,
+            "site": "https://www.malaysiaairlines.com"
+        },
+        {
+            "name": "Hi Fly",
+            "code": "5K",
+            "is_lowcost": true,
+            "site": "http://www.hifly.aero"
+        },
+        {
+            "name": "Kunming Airlines",
+            "code": "KY",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Southern Air",
+            "code": "9R",
+            "is_lowcost": false,
+            "site": "http://www.phuketairlines.com"
+        },
+        {
+            "name": "Niki",
+            "code": "HG",
+            "is_lowcost": true,
+            "site": "http://www.flyniki.com"
+        },
+        {
+            "name": "Coastal Travels",
+            "code": "CQ",
+            "is_lowcost": false,
+            "site": "http://www.sunshineexpress.com.au"
+        },
+        {
+            "name": "Westjet",
+            "code": "WS",
+            "is_lowcost": true,
+            "site": "https://www.westjet.com/"
+        },
+        {
+            "name": "Shahename Air",
+            "code": "NL",
+            "is_lowcost": false,
+            "site": "http://www.shaheenair.com"
+        },
+        {
+            "name": "Northwestern Air",
+            "code": "J3",
+            "is_lowcost": false,
+            "site": "http://www.nwal.ca"
+        },
+        {
+            "name": "Sansa Airlines",
+            "code": "RZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jetstar Asia",
+            "code": "3K",
+            "is_lowcost": true,
+            "site": "http://www.jetstar.com"
+        },
+        {
+            "name": "Aerol\u00edneas Mas",
+            "code": "N3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Southwest Airlines",
+            "code": "WN",
+            "is_lowcost": true,
+            "site": "https://www.southwest.com/"
+        },
+        {
+            "name": "Vietnam Airlines",
+            "code": "VN",
+            "is_lowcost": false,
+            "site": "https://www.vietnamairlines.com"
+        },
+        {
+            "name": "Kostroma Air",
+            "code": "\u041a\u0411",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "One Jet, Inc.",
+            "code": "J1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Belavia",
+            "code": "B2",
+            "is_lowcost": false,
+            "site": "http://belavia.by"
+        },
+        {
+            "name": "Avianca Brazil",
+            "code": "O6",
+            "is_lowcost": false,
+            "site": "http://www.avianca.com.br"
+        },
+        {
+            "name": "Air Transat",
+            "code": "TS",
+            "is_lowcost": false,
+            "site": "https://www.airtransat.com"
+        },
+        {
+            "name": "Amadeus IT Group SA",
+            "code": "1A",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Amadeus_IT_Group"
+        },
+        {
+            "name": "Air Via Ltd.",
+            "code": "VL",
+            "is_lowcost": false,
+            "site": "http://www.air-via.com"
+        },
+        {
+            "name": "RUS Aviation",
+            "code": "R4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Avior Airlines",
+            "code": "9V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Smartavia",
+            "code": "5N",
+            "is_lowcost": true,
+            "site": "http://www.nordavia.ru/eng/"
+        },
+        {
+            "name": "Halcyonair",
+            "code": "7Z",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Syphax Airlines",
+            "code": "FS",
+            "is_lowcost": false,
+            "site": "https://www.flyr.com"
+        },
+        {
+            "name": "Finistair",
+            "code": "0D",
+            "is_lowcost": false,
+            "site": "http://www.darwinairline.com"
+        },
+        {
+            "name": "VivaAerobus",
+            "code": "VB",
+            "is_lowcost": true,
+            "site": "https://www.vivaaerobus.com"
+        },
+        {
+            "name": "LGW Luftfahrtgesellschaft Walter",
+            "code": "HE",
+            "is_lowcost": false,
+            "site": "http://www.lgw.de"
+        },
+        {
+            "name": "Aerolitoral S.A. de C.V.",
+            "code": "5D",
+            "is_lowcost": false,
+            "site": "http://www.amconnect.com"
+        },
+        {
+            "name": "Volga-Dnepr Airlines",
+            "code": "VI",
+            "is_lowcost": false,
+            "site": "http://www.volga-dnepr.com"
+        },
+        {
+            "name": "Tatarstan Airlines",
+            "code": "U9",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Austral",
+            "code": "UU",
+            "is_lowcost": false,
+            "site": "http://www.air-austral.com/en/"
+        },
+        {
+            "name": "Grumeti Air",
+            "code": "0G",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Gulf Air",
+            "code": "GF",
+            "is_lowcost": false,
+            "site": "http://www.gulfair.com"
+        },
+        {
+            "name": "Jazz",
+            "code": "QK",
+            "is_lowcost": false,
+            "site": "http://www.flyjazz.ca"
+        },
+        {
+            "name": "Calima Aviacion S.L",
+            "code": "3C",
+            "is_lowcost": false,
+            "site": "https://www.airchathams.co.nz"
+        },
+        {
+            "name": "Mid Africa Aviation",
+            "code": "8G",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Northwest",
+            "code": "0E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Izhavia",
+            "code": "I8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Level",
+            "code": "VK",
+            "is_lowcost": false,
+            "site": "http://www.virginnigeria.com"
+        },
+        {
+            "name": "KM Malta Airlines",
+            "code": "KM",
+            "is_lowcost": false,
+            "site": "https://www.airmalta.com"
+        },
+        {
+            "name": "Yangtze River Express",
+            "code": "Y8",
+            "is_lowcost": false,
+            "site": "https://www.yzr.com.cn"
+        },
+        {
+            "name": "Travel Service",
+            "code": "7O",
+            "is_lowcost": false,
+            "site": "http://www.galaxy.aero"
+        },
+        {
+            "name": "Eritrean Airlines",
+            "code": "B8",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Eritrean_Airlines"
+        },
+        {
+            "name": "PAL Express",
+            "code": "2P",
+            "is_lowcost": true,
+            "site": "http://www.airphilexpress.com"
+        },
+        {
+            "name": "PopulAir",
+            "code": "HP",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Pearl_Airways"
+        },
+        {
+            "name": "VIA Rail Canada Inc.",
+            "code": "2R",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Belle Air",
+            "code": "LZ",
+            "is_lowcost": false,
+            "site": "http://www.belleair.it"
+        },
+        {
+            "name": "Pacific Wings",
+            "code": "LW",
+            "is_lowcost": false,
+            "site": "http://www.pacificwings.com"
+        },
+        {
+            "name": "TIK Systems",
+            "code": "T1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "East Horizon Airlines",
+            "code": "EA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aerorepublica",
+            "code": "P5",
+            "is_lowcost": false,
+            "site": "https://www.copaair.com"
+        },
+        {
+            "name": "Alpha Air Transport",
+            "code": "7U",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "8165343 Canada Inc. dba Air Canada rouge",
+            "code": "RV",
+            "is_lowcost": false,
+            "site": "http://flyrouge.com"
+        },
+        {
+            "name": "Gambia International Airlines",
+            "code": "GC",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Gambia_International_Airlines"
+        },
+        {
+            "name": "Bamboo Airways",
+            "code": "QH",
+            "is_lowcost": false,
+            "site": "http://air.kg"
+        },
+        {
+            "name": "Fly Namibia",
+            "code": "WV",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Swe_Fly"
+        },
+        {
+            "name": "Continnametal Micronesia, Inc.",
+            "code": "CS",
+            "is_lowcost": false,
+            "site": "http://www.continental.com"
+        },
+        {
+            "name": "BMI Regional",
+            "code": "BM",
+            "is_lowcost": false,
+            "site": "http://www.bmiregional.com"
+        },
+        {
+            "name": "White Airways",
+            "code": "WI",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Alsie",
+            "code": "6I",
+            "is_lowcost": false,
+            "site": "http://www.iba.nu"
+        },
+        {
+            "name": "Air Italy",
+            "code": "I9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Central_Airlines_(China)"
+        },
+        {
+            "name": "Itek Air",
+            "code": "GI",
+            "is_lowcost": false,
+            "site": "https://www.longhao-air.com"
+        },
+        {
+            "name": "Flydubai",
+            "code": "FZ",
+            "is_lowcost": true,
+            "site": "http://www.flydubai.com"
+        },
+        {
+            "name": "Saudia",
+            "code": "SV",
+            "is_lowcost": false,
+            "site": "https://www.saudia.com"
+        },
+        {
+            "name": "Starbow",
+            "code": "S9",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Arkhangelsk-2",
+            "code": "\u0410\u0427",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Wideroe",
+            "code": "WF",
+            "is_lowcost": false,
+            "site": "https://www.wideroe.no"
+        },
+        {
+            "name": "Air Liaison",
+            "code": "Q9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Afrinat_International_Airlines"
+        },
+        {
+            "name": "Iran Aseman Airlines",
+            "code": "EP",
+            "is_lowcost": false,
+            "site": "http://www.iaa.ir"
+        },
+        {
+            "name": "MAYAir",
+            "code": "7M",
+            "is_lowcost": false,
+            "site": "http://www.mistralair.it"
+        },
+        {
+            "name": "Ibom Air",
+            "code": "QI",
+            "is_lowcost": false,
+            "site": "http://www.cimber.com"
+        },
+        {
+            "name": "SmartLynx Airlines",
+            "code": "6Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Olympic Air",
+            "code": "OA",
+            "is_lowcost": false,
+            "site": "http://www.olympicairlines.com"
+        },
+        {
+            "name": "Oman Air",
+            "code": "WY",
+            "is_lowcost": false,
+            "site": "http://www.omanair.com"
+        },
+        {
+            "name": "Safarilink Aviation",
+            "code": "F2",
+            "is_lowcost": false,
+            "site": "http://www.flyair.com.tr"
+        },
+        {
+            "name": "LEAV",
+            "code": "KK",
+            "is_lowcost": false,
+            "site": "http://www.atlasjet.com"
+        },
+        {
+            "name": "Travel Service Slovnamesko",
+            "code": "6D",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nordic Regional Airline",
+            "code": "N7",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/National_Airlines_(N7)"
+        },
+        {
+            "name": "Volotea",
+            "code": "V7",
+            "is_lowcost": true,
+            "site": "http://www.air-senegal-international.com"
+        },
+        {
+            "name": "Air Lituanica",
+            "code": "LT",
+            "is_lowcost": false,
+            "site": "http://www.ltu.com"
+        },
+        {
+            "name": "Ryanair",
+            "code": "FR",
+            "is_lowcost": true,
+            "site": "https://www.ryanair.com/"
+        },
+        {
+            "name": "HiSky",
+            "code": "H4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aurigny Air Services",
+            "code": "GR",
+            "is_lowcost": false,
+            "site": "http://www.aurigny.com"
+        },
+        {
+            "name": "Alliance Air",
+            "code": "9I",
+            "is_lowcost": false,
+            "site": "http://www.airindia.in/alliance-air.htm"
+        },
+        {
+            "name": "Air Moldova",
+            "code": "9U",
+            "is_lowcost": false,
+            "site": "https://www.airmoldova.md"
+        },
+        {
+            "name": "Jambojet",
+            "code": "JM",
+            "is_lowcost": false,
+            "site": "http://www.airjamaica.com"
+        },
+        {
+            "name": "Sudan Airways",
+            "code": "SD",
+            "is_lowcost": false,
+            "site": "http://www.sudanair.com"
+        },
+        {
+            "name": "Xiamname Airlines",
+            "code": "MF",
+            "is_lowcost": false,
+            "site": "https://www.xiamenair.com"
+        },
+        {
+            "name": "Donghai Airlines",
+            "code": "DZ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SkyWork Airlines",
+            "code": "SX",
+            "is_lowcost": false,
+            "site": "http://www.skybus.com"
+        },
+        {
+            "name": "Papillon Airways",
+            "code": "HI",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "CM Airlines",
+            "code": "CC",
+            "is_lowcost": false,
+            "site": "http://www.airatlanta.is"
+        },
+        {
+            "name": "BB Airways",
+            "code": "BO",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Bouraq_Indonesia_Airlines"
+        },
+        {
+            "name": "JSC \"Sirnamea-Travel\"",
+            "code": "1H",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Arabia Abu Dhabi",
+            "code": "3L",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Blue Panorama Airlines",
+            "code": "BV",
+            "is_lowcost": true,
+            "site": "http://www.blue-panorama.com/eng/index_a.htm"
+        },
+        {
+            "name": "Linear Air",
+            "code": "O2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Tindi",
+            "code": "8T",
+            "is_lowcost": false,
+            "site": "http://www.airtindi.com"
+        },
+        {
+            "name": "Transavia Dnamemark",
+            "code": "PH",
+            "is_lowcost": false,
+            "site": "http://www.polynesianairlines.com"
+        },
+        {
+            "name": "ZanAir",
+            "code": "B4",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sol Lineas Aereas",
+            "code": "8R",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Qatar Airways",
+            "code": "QR",
+            "is_lowcost": false,
+            "site": "https://www.qatarairways.com"
+        },
+        {
+            "name": "Level",
+            "code": "LV",
+            "is_lowcost": false,
+            "site": "http://www.albanianair.com"
+        },
+        {
+            "name": "Africa World Airlines",
+            "code": "AW",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Dirgantara_Air_Service"
+        },
+        {
+            "name": "Himalaya Airlines",
+            "code": "H9",
+            "is_lowcost": true,
+            "site": "http://www.izair.com.tr/En/"
+        },
+        {
+            "name": "Galileo International",
+            "code": "1V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Lao Airlines",
+            "code": "QV",
+            "is_lowcost": false,
+            "site": "http://www.laoairlines.com"
+        },
+        {
+            "name": "Aero-Tropics Air Services",
+            "code": "HC",
+            "is_lowcost": false,
+            "site": "http://www.aero-tropics.com.au"
+        },
+        {
+            "name": "Condor",
+            "code": "DF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Yeti Airlines Domestic Pvt. Ltd.",
+            "code": "YT",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Togo"
+        },
+        {
+            "name": "Discover",
+            "code": "4Y",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TAAG Angola Airlines",
+            "code": "DT",
+            "is_lowcost": false,
+            "site": "http://www.taag.com"
+        },
+        {
+            "name": "Titan Airways Limited",
+            "code": "ZT",
+            "is_lowcost": false,
+            "site": "http://www.titan-airways.com"
+        },
+        {
+            "name": "Cornamedon Dutch Airlines",
+            "code": "CD",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Fly All Ways",
+            "code": "8W",
+            "is_lowcost": false,
+            "site": "http://www.private-wings.de"
+        },
+        {
+            "name": "Pascan Aviation",
+            "code": "P6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Viva Air Colombia",
+            "code": "VH",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "FlyEgypt",
+            "code": "FT",
+            "is_lowcost": true,
+            "site": "http://www.siemreapairways.com"
+        },
+        {
+            "name": "Batik Air",
+            "code": "OD",
+            "is_lowcost": true,
+            "site": "https://www.malindoair.com"
+        },
+        {
+            "name": "Air Seoul",
+            "code": "RS",
+            "is_lowcost": true,
+            "site": "https://en.wikipedia.org/wiki/Royal_Air_Force_of_Oman"
+        },
+        {
+            "name": "Dana Airlines Limited",
+            "code": "9J",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Major Airline",
+            "code": "YY",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Equaflight Service",
+            "code": "E7",
+            "is_lowcost": false,
+            "site": "http://www.eaac.co.uk"
+        },
+        {
+            "name": "People's Vinamenaline",
+            "code": "PE",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Europe_(Italy)"
+        },
+        {
+            "name": "namevoy Air",
+            "code": "MQ",
+            "is_lowcost": false,
+            "site": "http://www.aa.com/content/footer/eagleOverview.jhtml"
+        },
+        {
+            "name": "Nomad Aviation (PTY) Ltd.",
+            "code": "N6",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Nuevo_Continente"
+        },
+        {
+            "name": "Air France",
+            "code": "AF",
+            "is_lowcost": false,
+            "site": "https://www.airfrance.com"
+        },
+        {
+            "name": "Republic Airlines",
+            "code": "YX",
+            "is_lowcost": false,
+            "site": "http://www.midwestairlines.com"
+        },
+        {
+            "name": "World2Fly",
+            "code": "2W",
+            "is_lowcost": false,
+            "site": "http://www.welcomeair.com"
+        },
+        {
+            "name": "Aeronautical Telecommunications Ltd.(AEROTEL)",
+            "code": "XI",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Solaseed Air",
+            "code": "6J",
+            "is_lowcost": false,
+            "site": "https://www.solaseedair.jp"
+        },
+        {
+            "name": "Islnamea de Inversiones S.A. de C.V.dba Islnamea Airlines",
+            "code": "WC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "TAME Linea Aerea del Ecuador",
+            "code": "EQ",
+            "is_lowcost": false,
+            "site": "http://www.tame.com.ec"
+        },
+        {
+            "name": "Horizon Air",
+            "code": "QX",
+            "is_lowcost": false,
+            "site": "http://www.horizonair.com"
+        },
+        {
+            "name": "Liat",
+            "code": "LI",
+            "is_lowcost": false,
+            "site": "http://www.liat.com"
+        },
+        {
+            "name": "Go!",
+            "code": "G8",
+            "is_lowcost": true,
+            "site": "https://www.goair.in"
+        },
+        {
+            "name": "Virgin America ",
+            "code": "VX",
+            "is_lowcost": true,
+            "site": "http://www.virginamerica.com"
+        },
+        {
+            "name": "Turkish Airlines",
+            "code": "TK",
+            "is_lowcost": false,
+            "site": "https://www.turkishairlines.com"
+        },
+        {
+            "name": "Finnair",
+            "code": "AY",
+            "is_lowcost": false,
+            "site": "https://www.finnair.com"
+        },
+        {
+            "name": "Knamemore Air",
+            "code": "M5",
+            "is_lowcost": false,
+            "site": "http://kenmoreair.com"
+        },
+        {
+            "name": "LANHSA",
+            "code": "00",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Swiftair",
+            "code": "WT",
+            "is_lowcost": false,
+            "site": "http://www.wasaya.com/default.asp"
+        },
+        {
+            "name": "Santa Barbara Airlines",
+            "code": "S3",
+            "is_lowcost": false,
+            "site": "http://www.sbairlines.com"
+        },
+        {
+            "name": "SunExpress Deutschland",
+            "code": "XG",
+            "is_lowcost": true,
+            "site": "http://www.clickair.com"
+        },
+        {
+            "name": "Eaglexpress Air Charter Sdn.Bhd.dbaEaglexpress Air",
+            "code": "9A",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Bonza",
+            "code": "AB",
+            "is_lowcost": false,
+            "site": "https://www.airberlin.com"
+        },
+        {
+            "name": "Global Aviation Services Group",
+            "code": "5S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Fuzhou Airlines",
+            "code": "FU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aeroflot",
+            "code": "SU",
+            "is_lowcost": false,
+            "site": "https://www.aeroflot.ru"
+        },
+        {
+            "name": "Air Dolomiti",
+            "code": "name",
+            "is_lowcost": false,
+            "site": "/AJA"
+        },
+        {
+            "name": "UPS",
+            "code": "5X",
+            "is_lowcost": false,
+            "site": "https://www.ups.com"
+        },
+        {
+            "name": "Vietravel Airlines",
+            "code": "VU",
+            "is_lowcost": false,
+            "site": "http://www.airivoire.com"
+        },
+        {
+            "name": "Aircalin",
+            "code": "SB",
+            "is_lowcost": false,
+            "site": "http://www.aircalin.com"
+        },
+        {
+            "name": "Uni Air",
+            "code": "B7",
+            "is_lowcost": false,
+            "site": "http://www.uniair.com.tw"
+        },
+        {
+            "name": "SeaPort Airlines",
+            "code": "K5",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air C\u00f4te d'Ivoire",
+            "code": "HF",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Monarch Airlines",
+            "code": "ZB",
+            "is_lowcost": true,
+            "site": "https://en.wikipedia.org/wiki/Air_Bourbon"
+        },
+        {
+            "name": "SkyUp Airlines",
+            "code": "PQ",
+            "is_lowcost": true,
+            "site": "https://skyup.aero"
+        },
+        {
+            "name": "airBaltic",
+            "code": "BT",
+            "is_lowcost": false,
+            "site": "https://www.airbaltic.com"
+        },
+        {
+            "name": "AirBridgeCargo",
+            "code": "RU",
+            "is_lowcost": false,
+            "site": "https://www.airbridgecargo.com"
+        },
+        {
+            "name": "Avianca Ecuador",
+            "code": "2K",
+            "is_lowcost": false,
+            "site": "https://www.aerogal.com.ec/en/"
+        },
+        {
+            "name": "Bulgarian Air Charter",
+            "code": "H6",
+            "is_lowcost": false,
+            "site": "http://www.hageland.com"
+        },
+        {
+            "name": "CEIBA Intercontinnametal",
+            "code": "C2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Cargo Germany",
+            "code": "6U",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Ukraine"
+        },
+        {
+            "name": "Alsa Grupo SLU",
+            "code": "5I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "InterCaribbean Airways",
+            "code": "JY",
+            "is_lowcost": false,
+            "site": "http://www.flyairtc.com"
+        },
+        {
+            "name": "Jet Aviation Business",
+            "code": "PP",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Royal Jordanian",
+            "code": "RJ",
+            "is_lowcost": false,
+            "site": "http://www.rj.com"
+        },
+        {
+            "name": "Hi Air",
+            "code": "4H",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Afghan Jet International",
+            "code": "HN",
+            "is_lowcost": false,
+            "site": "http://www.heavyliftcargo.com"
+        },
+        {
+            "name": "Air Urga",
+            "code": "3N",
+            "is_lowcost": false,
+            "site": "http://www.urga.com.ua"
+        },
+        {
+            "name": "Knameya Airways",
+            "code": "KQ",
+            "is_lowcost": false,
+            "site": "https://www.kenya-airways.com"
+        },
+        {
+            "name": "Heron Aviation",
+            "code": "0V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "RusLine",
+            "code": "7R",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/BRA_Transportes_A\u00e9reos"
+        },
+        {
+            "name": "Polynesian Airlines",
+            "code": "OL",
+            "is_lowcost": false,
+            "site": "http://www.olt.de"
+        },
+        {
+            "name": "Libyan Wings",
+            "code": "YL",
+            "is_lowcost": false,
+            "site": "http://www.yamal-airlines.ru"
+        },
+        {
+            "name": "SkyFru",
+            "code": "K1",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Busan",
+            "code": "BX",
+            "is_lowcost": true,
+            "site": "https://www.airbusan.com"
+        },
+        {
+            "name": "SKS Airways",
+            "code": "KI",
+            "is_lowcost": false,
+            "site": "http://www.flyadamair.com"
+        },
+        {
+            "name": "Asian Wings Airways Limited",
+            "code": "YJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jet Express",
+            "code": "G2",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "HiSky",
+            "code": "H7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Travel Air",
+            "code": "4P",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Afrinat International Airlines",
+            "code": "2F",
+            "is_lowcost": false,
+            "site": "http://www.frontierflying.com"
+        },
+        {
+            "name": "CommutAir",
+            "code": "C5",
+            "is_lowcost": false,
+            "site": "http://www.commutair.com"
+        },
+        {
+            "name": "Ak Bars Aero",
+            "code": "2B",
+            "is_lowcost": true,
+            "site": "http://www.aerocondor.com"
+        },
+        {
+            "name": "PT Republic Express Airlines",
+            "code": "RH",
+            "is_lowcost": false,
+            "site": "https://www.rpx.co.id"
+        },
+        {
+            "name": "Tradewind Aviation",
+            "code": "TJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Jordan Aviation",
+            "code": "R5",
+            "is_lowcost": true,
+            "site": "http://www.jordanaviation.jo"
+        },
+        {
+            "name": "Regional Jet O\u00dc",
+            "code": "EE",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Aero_Airlines"
+        },
+        {
+            "name": "Scoot",
+            "code": "TZ",
+            "is_lowcost": true,
+            "site": "http://www.ata.com"
+        },
+        {
+            "name": "FedEx",
+            "code": "FX",
+            "is_lowcost": false,
+            "site": "https://www.fedex.com"
+        },
+        {
+            "name": "Fuji Dream Airlines",
+            "code": "JH",
+            "is_lowcost": false,
+            "site": "https://www.fujidream.co.jp/en/"
+        },
+        {
+            "name": "Peruvian Airlines",
+            "code": "P9",
+            "is_lowcost": false,
+            "site": "http://www.aviaperm.ru"
+        },
+        {
+            "name": "Universal Air",
+            "code": "VO",
+            "is_lowcost": false,
+            "site": "http://www.tyrolean.at"
+        },
+        {
+            "name": "Cayman Airways",
+            "code": "KX",
+            "is_lowcost": false,
+            "site": "https://www.caymanairways.com"
+        },
+        {
+            "name": "PLAY",
+            "code": "OG",
+            "is_lowcost": false,
+            "site": "https://www.flyplay.com"
+        },
+        {
+            "name": "Trnameitalia",
+            "code": "7T",
+            "is_lowcost": false,
+            "site": "http://www.air-glaciers.ch"
+        },
+        {
+            "name": "Smokey Bay Air, Inc.",
+            "code": "2E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Safi Airways",
+            "code": "4Q",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Gazpromavia",
+            "code": "4G",
+            "is_lowcost": false,
+            "site": "https://avia.gazprom.com"
+        },
+        {
+            "name": "Grand Canyon Airlines, Inc.dba Scnameic Airlines",
+            "code": "YR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "APG Airlines",
+            "code": "GP",
+            "is_lowcost": false,
+            "site": "http://www.gestair.com"
+        },
+        {
+            "name": "INFINI Travel Information, Inc.",
+            "code": "1F",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Alexandria Airlines",
+            "code": "DQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Braathnames Regional",
+            "code": "DC",
+            "is_lowcost": false,
+            "site": "http://www.goldenair.se"
+        },
+        {
+            "name": "ATA Airlines",
+            "code": "I3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Tandem Aero",
+            "code": "TQ",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Tandem_Aero"
+        },
+        {
+            "name": "Premier Airlines",
+            "code": "0M",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "JETGO Australia",
+            "code": "JG",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "SalamAir",
+            "code": "OV",
+            "is_lowcost": true,
+            "site": "http://www.estonian-air.com"
+        },
+        {
+            "name": "Aero Transporte S.A.",
+            "code": "4A",
+            "is_lowcost": false,
+            "site": "http://www.airkiribati.com.au"
+        },
+        {
+            "name": "Air Botswana",
+            "code": "BP",
+            "is_lowcost": false,
+            "site": "http://www.airbotswana.co.bw"
+        },
+        {
+            "name": "Air Namibia",
+            "code": "SW",
+            "is_lowcost": false,
+            "site": "http://www.airnamibia.com.na"
+        },
+        {
+            "name": "UIA",
+            "code": "PS",
+            "is_lowcost": false,
+            "site": "https://www.flyuia.com"
+        },
+        {
+            "name": "Manx2",
+            "code": "NM",
+            "is_lowcost": false,
+            "site": "http://www.airmadrid.com"
+        },
+        {
+            "name": "US Airways",
+            "code": "US",
+            "is_lowcost": false,
+            "site": "http://www.usairways.com"
+        },
+        {
+            "name": "Zambezi Airlines",
+            "code": "ZJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "New namegland Airlines",
+            "code": "EJ",
+            "is_lowcost": false,
+            "site": "http://www.block-island.com/nea/"
+        },
+        {
+            "name": "Sepehran Airlines",
+            "code": "IS",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Iran Airtour",
+            "code": "B9",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Air_Bangladesh"
+        },
+        {
+            "name": "EcoJet",
+            "code": "8J",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Komiinteravia"
+        },
+        {
+            "name": "LATAM Chile",
+            "code": "LA",
+            "is_lowcost": false,
+            "site": "https://www.latam.com"
+        },
+        {
+            "name": "Sunday Airlines",
+            "code": "0S",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Sounds Air Travel & Tourism Ltd.",
+            "code": "S8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Creebec",
+            "code": "YN",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Thomas Cook Airlines Scandinavia",
+            "code": "DK",
+            "is_lowcost": false,
+            "site": "http://www.thomascookairlines.dk"
+        },
+        {
+            "name": "FlyArna",
+            "code": "G6",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Insel Air",
+            "code": "8I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nesma Airlines",
+            "code": "NE",
+            "is_lowcost": false,
+            "site": "http://www.skyeurope.com"
+        },
+        {
+            "name": "Air Do",
+            "code": "HD",
+            "is_lowcost": true,
+            "site": "https://www.airdo.jp"
+        },
+        {
+            "name": "LATAM Ecuador",
+            "code": "XL",
+            "is_lowcost": false,
+            "site": "https://www.latam.com"
+        },
+        {
+            "name": "Cebu Pacific",
+            "code": "5J",
+            "is_lowcost": true,
+            "site": "https://www.cebupacificair.com"
+        },
+        {
+            "name": "Comair",
+            "code": "MN",
+            "is_lowcost": true,
+            "site": "http://www.comair.co.za"
+        },
+        {
+            "name": "Bangkok Airways",
+            "code": "PG",
+            "is_lowcost": false,
+            "site": "http://www.bangkokair.com"
+        },
+        {
+            "name": "Globus Airlines",
+            "code": "GH",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Ghana_Airways"
+        },
+        {
+            "name": "Swiss International Air Lines",
+            "code": "LX",
+            "is_lowcost": false,
+            "site": "https://www.swiss.com"
+        },
+        {
+            "name": "Viva Air",
+            "code": "VV",
+            "is_lowcost": false,
+            "site": "http://www.aerosvit.com"
+        },
+        {
+            "name": "LOT Polish Airlines",
+            "code": "LO",
+            "is_lowcost": false,
+            "site": "http://www.lot.com"
+        },
+        {
+            "name": "Skypower Express Airways",
+            "code": "NB",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Sterling_Airlines"
+        },
+        {
+            "name": "SiAvia",
+            "code": "KT",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "LAM Mozambique Airlines",
+            "code": "TM",
+            "is_lowcost": false,
+            "site": "https://www.lam.co.mz"
+        },
+        {
+            "name": "PT Aerosystems Indonesia",
+            "code": "1T",
+            "is_lowcost": false,
+            "site": "http://www.1time.aero/"
+        },
+        {
+            "name": "TACA Airlines",
+            "code": "TA",
+            "is_lowcost": false,
+            "site": "https://www.avianca.com"
+        },
+        {
+            "name": "Mokulele Airlines",
+            "code": "MW",
+            "is_lowcost": false,
+            "site": "http://www.mayaairways.com"
+        },
+        {
+            "name": "Orinametal Air Bridge",
+            "code": "OC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Eurostar",
+            "code": "2H",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Nova Airways",
+            "code": "N9",
+            "is_lowcost": false,
+            "site": "http://www.novair.net/en/"
+        },
+        {
+            "name": "S7 Airlines",
+            "code": "S7",
+            "is_lowcost": false,
+            "site": "https://www.s7.ru"
+        },
+        {
+            "name": "Chongqing Airlines",
+            "code": "OQ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Inuit",
+            "code": "3H",
+            "is_lowcost": false,
+            "site": "https://www.airinuit.com"
+        },
+        {
+            "name": "HOP!",
+            "code": "AN",
+            "is_lowcost": false,
+            "site": "https://www.advancedairlines.com"
+        },
+        {
+            "name": "Travelsky Technology Limited",
+            "code": "1E",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Arik Air",
+            "code": "W3",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Cronos Airlines",
+            "code": "C8",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Inter Air",
+            "code": "D6",
+            "is_lowcost": false,
+            "site": "http://www.interair.co.za"
+        },
+        {
+            "name": "Kam Air",
+            "code": "RQ",
+            "is_lowcost": false,
+            "site": "http://www.flykamair.com"
+        },
+        {
+            "name": "Almasria Universal Airlines",
+            "code": "UJ",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Chnamegdu Airlines",
+            "code": "EU",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Ecuatoriana_de_Aviaci\u00f3n"
+        },
+        {
+            "name": "Aviacon Zitotrans Air Company JSC",
+            "code": "ZR",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Air Transport International L.L.C.",
+            "code": "8C",
+            "is_lowcost": false,
+            "site": "http://www.airtransport.cc"
+        },
+        {
+            "name": "Nile Air",
+            "code": "NP",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Eagle Atlantic Airlines",
+            "code": "E2",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Conviasa",
+            "code": "V0",
+            "is_lowcost": false,
+            "site": "http://www.conviasa.aero"
+        },
+        {
+            "name": "Juneyao Airlines",
+            "code": "HO",
+            "is_lowcost": false,
+            "site": "https://global.juneyaoair.com"
+        },
+        {
+            "name": "ANA Wings",
+            "code": "EH",
+            "is_lowcost": false,
+            "site": "http://www.anawings.co.jp"
+        },
+        {
+            "name": "Ningxia Cargo Airlines CO.,LTD",
+            "code": "HT",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Aeromist-Kharkiv"
+        },
+        {
+            "name": "AirAsia",
+            "code": "AK",
+            "is_lowcost": true,
+            "site": "https://www.airasia.com"
+        },
+        {
+            "name": "AIR CAIRO",
+            "code": "SM",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aviateca",
+            "code": "GU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Kharkiv Airlines",
+            "code": "KW",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Amtrak",
+            "code": "2V",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Quikjet Cargo Airlines Pvt. Ltd",
+            "code": "QO",
+            "is_lowcost": false,
+            "site": "http://www.aeromexpress.com.mx"
+        },
+        {
+            "name": "Azerbaijan Airlines",
+            "code": "J2",
+            "is_lowcost": false,
+            "site": "http://azal.az"
+        },
+        {
+            "name": "LAN Chile Cargo",
+            "code": "UC",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "China United Airlines",
+            "code": "KN",
+            "is_lowcost": true,
+            "site": "http://www.cu-air.com"
+        },
+        {
+            "name": "ITA Airways",
+            "code": "AZ",
+            "is_lowcost": false,
+            "site": "https://www.ita-airways.com"
+        },
+        {
+            "name": "Ernest Airline",
+            "code": "EG",
+            "is_lowcost": false,
+            "site": "http://www.japanasia.co.jp"
+        },
+        {
+            "name": "Pobeda",
+            "code": "DP",
+            "is_lowcost": true,
+            "site": "https://en.wikipedia.org/wiki/First_Choice_Airways"
+        },
+        {
+            "name": "Porter Airlines",
+            "code": "PD",
+            "is_lowcost": false,
+            "site": "http://www.flyporter.com"
+        },
+        {
+            "name": "AirExplore",
+            "code": "ED",
+            "is_lowcost": false,
+            "site": "http://www.airblue.com"
+        },
+        {
+            "name": "Avelo Airlines",
+            "code": "XP",
+            "is_lowcost": false,
+            "site": "https://www.aveloair.com"
+        },
+        {
+            "name": "Transportes A\u00e9reos Regionales",
+            "code": "5U",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Meraj Airlines",
+            "code": "0I",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "40-Mile Air",
+            "code": "Q5",
+            "is_lowcost": false,
+            "site": "http://www.outdoorsdirectory.com/akpages/40mileair/"
+        },
+        {
+            "name": "Magnicharters",
+            "code": "0Z",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Bahamasair",
+            "code": "UP",
+            "is_lowcost": false,
+            "site": "http://www.bahamasair.com"
+        },
+        {
+            "name": "Grant Aviation, Inc.",
+            "code": "GV",
+            "is_lowcost": false,
+            "site": "http://flygrant.com"
+        },
+        {
+            "name": "Caribbean Airlines",
+            "code": "BW",
+            "is_lowcost": false,
+            "site": "http://www.caribbean-airlines.com"
+        },
+        {
+            "name": "Hawkair",
+            "code": "BH",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Armnameia Airways",
+            "code": "6A",
+            "is_lowcost": false,
+            "site": "http://www.aviacsa.com"
+        },
+        {
+            "name": "Bird Information Systems Private Limited",
+            "code": "1R",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Atlantic Airways",
+            "code": "RC",
+            "is_lowcost": false,
+            "site": "https://www.atlanticairways.com"
+        },
+        {
+            "name": "Compagnie Africaine d'Aviation",
+            "code": "BU",
+            "is_lowcost": false,
+            "site": "http://www.sasbraathens.no"
+        },
+        {
+            "name": "Armnameian Airlines",
+            "code": "JI",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Midway_Airlines_(1993\u20132003)"
+        },
+        {
+            "name": "Portug\u00e1lia",
+            "code": "NI",
+            "is_lowcost": false,
+            "site": "http://www.flypga.com"
+        },
+        {
+            "name": "9 Air",
+            "code": "AQ",
+            "is_lowcost": true,
+            "site": "Site not available"
+        },
+        {
+            "name": "Chu Kong Passnameger Transport Co. Ltd.",
+            "code": "3A",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "NordStar",
+            "code": "Y7",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aero Nomad Airlines",
+            "code": "KA",
+            "is_lowcost": false,
+            "site": "https://www.cathaypacific.com"
+        },
+        {
+            "name": "Vanilla Air",
+            "code": "JW",
+            "is_lowcost": true,
+            "site": "https://www.vanilla-air.com"
+        },
+        {
+            "name": "Norwegian Long Haul",
+            "code": "DU",
+            "is_lowcost": false,
+            "site": "https://www.norwegian.com"
+        },
+        {
+            "name": "Red Wings",
+            "code": "WZ",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/West_African_Airlines"
+        },
+        {
+            "name": "Webjet Linhas Aereas",
+            "code": "WH",
+            "is_lowcost": false,
+            "site": "http://www.cnwa.com"
+        },
+        {
+            "name": "Pakistan International Airlines",
+            "code": "PK",
+            "is_lowcost": false,
+            "site": "http://www.piac.com.pk"
+        },
+        {
+            "name": "American Airlines",
+            "code": "AA",
+            "is_lowcost": false,
+            "site": "https://www.aa.com"
+        },
+        {
+            "name": "Sky Wings Airlines",
+            "code": "ND",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "JetSMART",
+            "code": "JA",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "ExpressJet",
+            "code": "XE",
+            "is_lowcost": false,
+            "site": "https://www.jsx.com"
+        },
+        {
+            "name": "Sky Airline",
+            "code": "H2",
+            "is_lowcost": true,
+            "site": "http://www.skyairline.cl"
+        },
+        {
+            "name": "VIM Airlines",
+            "code": "NN",
+            "is_lowcost": false,
+            "site": "http://www.vim-avia.com"
+        },
+        {
+            "name": "African Express Airways (K)  Limited",
+            "code": "XU",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "Aero K",
+            "code": "RF",
+            "is_lowcost": false,
+            "site": "http://www.fwia.com"
+        },
+        {
+            "name": "Pegas Fly",
+            "code": "EO",
+            "is_lowcost": false,
+            "site": "http://www.hba.cd"
+        },
+        {
+            "name": "EgyptAir",
+            "code": "MS",
+            "is_lowcost": false,
+            "site": "https://www.egyptair.com"
+        },
+        {
+            "name": "Radixx Solutions International, Inc.",
+            "code": "1D",
+            "is_lowcost": false,
+            "site": "Site not available"
+        },
+        {
+            "name": "IBC Airways",
+            "code": "II",
+            "is_lowcost": false,
+            "site": "http://www.ibcinc.com"
+        },
+        {
+            "name": "Link Airways",
+            "code": "FC",
+            "is_lowcost": true,
+            "site": "http://www.fc.fi/home.html"
+        },
+        {
+            "name": "Austral Lineas Aereas",
+            "code": "AU",
+            "is_lowcost": false,
+            "site": "http://www.austral.com.ar"
+        },
+        {
+            "name": "Georgian Airways",
+            "code": "A9",
+            "is_lowcost": false,
+            "site": "http://www.georgian-airways.com"
+        },
+        {
+            "name": "Seaborne Airlines",
+            "code": "BB",
+            "is_lowcost": false,
+            "site": "https://en.wikipedia.org/wiki/Seaborne_Airlines"
+        },
+        {
+            "name": "Charter Air Transport, Inc.",
+            "code": "VC",
+            "is_lowcost": true,
+            "site": "http://www.airaustralia.com"
+        }
+    ]
+}
