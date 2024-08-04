@@ -1,0 +1,5 @@
+.Home {
+    display: flex;
+    overflow-y: hidden;
+    margin-top: -180px
+}

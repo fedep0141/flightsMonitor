@@ -12,6 +12,11 @@
   justify-content: space-evenly;
 }
 
+.logoContainer {
+  width: 100%;
+  text-align: center;
+}
+
 .logo {
   margin-top: 2vw;
   margin-bottom: 2vw;

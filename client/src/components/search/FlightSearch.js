@@ -1,44 +1,22 @@
 import React, { useState } from "react";
 import Select from "react-select"
-import axios from "axios";
-import { format } from 'date-fns';
 import './FlightSearch.css';
 import currenciesJson from '../../data/currencies.json';
 import airportsJson from '../../data/airports.json';
 
-const FlightSearch = ({ setResults, setCurrencySymbol }) => {
-	const [origin, setOrigin] = useState({value: "MIL", label: "Milan (MIL)"});
+const FlightSearch = ({ searchFlights, searchType }) => {
+	const [origin, setOrigin] = useState({ value: "MIL", label: "Milan (MIL)" });
 	const [destination, setDestination] = useState(null);
 	const [departDate, setDepartDate] = useState("");
 	const [returnDate, setReturnDate] = useState("");
 	const [maxPrice, setMaxPrice] = useState(0);
-	const [currency, setCurrency] = useState({value: "EUR", label: "Euro", symbol: "€"});
+	const [currency, setCurrency] = useState({ value: "EUR", label: "Euro", symbol: "€" });
 	const [currencies] = useState(currenciesJson.currencies);
 	const [airports] = useState(airportsJson.airports);
 
-	const handleSearch = async () => {
-		try {
-			const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsByPrice`, {
-				params: {
-					origin: origin.value,
-					destination: destination?.value,
-					departDate: departDate === "" ? format(new Date(), 'yyyy-MM') : departDate,
-					returnDate: returnDate === "" ? format(new Date(), 'yyyy-MM') : returnDate,
-					maxPrice,
-					currency: currency.value
-				},
-			}
-			);
-			setCurrencySymbol(currency.symbol)
-			setResults(response.data);
-		} catch (error) {
-			console.error("Error fetching flight data:", error);
-		}
-	};
-
 	return (
 		<div>
-			<form onSubmit={(e) => { e.preventDefault(); handleSearch(); }}>
+			<form onSubmit={(e) => { e.preventDefault(); searchFlights(origin, destination, departDate, returnDate, maxPrice, currency); }}>
 				<div className="formContainer">
 					<div className="formGroup columnOne">
 						<label>From</label>
@@ -46,7 +24,7 @@ const FlightSearch = ({ setResults, setCurrencySymbol }) => {
 					</div>
 					<div className="formGroup columnTwo">
 						<label>To</label>
-						<Select placeholder="City or Airport" options={airports} value={destination} onChange={setDestination} />
+						<Select placeholder="City or Airport" options={airports} value={destination} onChange={setDestination} required={searchType === "BestDepartFlights"} />
 					</div>
 					<div className="formGroup columnOne">
 						<label>Depart</label>

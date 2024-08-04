@@ -1,19 +1,19 @@
 import React, { useState } from 'react';
 import FlightSearch from '../components/search/FlightSearch';
 import FlightResults from '../components/flights/FlightResults';
-import './CheapFlights.css';
+import './BestDepartFlights.css';
 import axios from "axios";
 import { format } from 'date-fns';
 
-const CheapFlights = () => {
+const BestDepartFlights = () => {
   const [results, setResults] = useState([]);
   const [currencySymbol, setCurrencySymbol] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const searchCheapFlights = async (origin, destination, departDate, returnDate, maxPrice, currency) => {
+  const searchBestDepartFlights = async (origin, destination, departDate, returnDate, maxPrice, currency) => {
     try {
       setLoading(true);
-      const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsByPrice`, {
+      const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsEachDay`, {
         params: {
           origin: origin.value,
           destination: destination?.value,
@@ -25,6 +25,7 @@ const CheapFlights = () => {
       }
       );
       setCurrencySymbol(currency.symbol)
+      console.log(response.data)
       setResults(response.data);
     } catch (error) {
       console.error("Error fetching flight data:", error);
@@ -34,12 +35,12 @@ const CheapFlights = () => {
   };
 
   return (
-    <div className="CheapFlights">
-      <h1>Cheap Flights</h1>
-      <FlightSearch searchFlights={searchCheapFlights} searchType={"CheapFlights"} />
+    <div className="BestDepartFlights">
+      <h1>Best Depart Flights</h1>
+      <FlightSearch searchFlights={searchBestDepartFlights} searchType={"BestDepartFlights"} />
       <FlightResults results={results} currencySymbol={currencySymbol} loading={loading} />
     </div>
   );
 };
 
-export default CheapFlights;
+export default BestDepartFlights;
