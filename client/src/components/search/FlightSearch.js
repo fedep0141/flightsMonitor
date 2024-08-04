@@ -18,7 +18,8 @@ const FlightSearch = ({ setResults, setCurrencySymbol }) => {
 
 	const handleSearch = async () => {
 		try {
-			const response = await axios.get("http://localhost:5000/flightsByPrice", {
+			console.log(process.env.REACT_APP_SERVER_IP || 'localhost')
+			const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsByPrice`, {
 				params: {
 					origin: origin.value,
 					destination: destination?.value,
