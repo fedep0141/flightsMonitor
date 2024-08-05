@@ -10,22 +10,27 @@ const BestDepartFlights = () => {
   const [currencySymbol, setCurrencySymbol] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const searchBestDepartFlights = async (origin, destination, departDate, returnDate, maxPrice, currency) => {
+  const searchBestDepartFlights = async (origin, destination, departDate, returnDate, maxPrice, currency, monthPickerDepart, monthPickerReturn) => {
     try {
       setLoading(true);
-      const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsEachDay`, {
+      if (departDate !== undefined) {
+        monthPickerDepart ? departDate = format(departDate, 'yyyy-MM') : departDate = format(departDate, 'yyyy-MM-dd')
+      } else departDate = format(new Date(), 'yyyy-MM')
+      if (returnDate !== undefined) {
+        monthPickerReturn ? returnDate = format(returnDate, 'yyyy-MM') : returnDate = format(returnDate, 'yyyy-MM-dd')
+      } else returnDate = format(new Date(), 'yyyy-MM')
+      const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsByPrice`, {
         params: {
           origin: origin.value,
           destination: destination?.value,
-          departDate: departDate === "" ? format(new Date(), 'yyyy-MM') : departDate,
-          returnDate: returnDate === "" ? format(new Date(), 'yyyy-MM') : returnDate,
-          maxPrice,
+          departDate,
+          returnDate,
+          maxPrice: maxPrice || 0,
           currency: currency.value
         },
       }
       );
       setCurrencySymbol(currency.symbol)
-      console.log(response.data)
       setResults(response.data);
     } catch (error) {
       console.error("Error fetching flight data:", error);

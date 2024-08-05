@@ -34,6 +34,7 @@ const filterByPrice2 = (data, maxPrice) => {
 }
 
 app.get('/flightsByPrice', async (req, res) => {
+  console.log(req.query)
   try {
     const response = await axios.get('https://api.travelpayouts.com/v1/prices/cheap', {
       params: {

@@ -1,22 +1,28 @@
 import React, { useState } from "react";
 import Select from "react-select"
 import './FlightSearch.css';
+import { DatePicker, InputNumber, Checkbox } from 'rsuite';
 import currenciesJson from '../../data/currencies.json';
 import airportsJson from '../../data/airports.json';
+import 'rsuite/DatePicker/styles/index.css';
+import 'rsuite/InputNumber/styles/index.css';
+import 'rsuite/Checkbox/styles/index.css';
 
 const FlightSearch = ({ searchFlights, searchType }) => {
 	const [origin, setOrigin] = useState({ value: "MIL", label: "Milan (MIL)" });
 	const [destination, setDestination] = useState(null);
-	const [departDate, setDepartDate] = useState("");
-	const [returnDate, setReturnDate] = useState("");
-	const [maxPrice, setMaxPrice] = useState(0);
+	const [departDate, setDepartDate] = useState(undefined);
+	const [returnDate, setReturnDate] = useState(undefined);
+	const [maxPrice, setMaxPrice] = useState();
 	const [currency, setCurrency] = useState({ value: "EUR", label: "Euro", symbol: "€" });
 	const [currencies] = useState(currenciesJson.currencies);
 	const [airports] = useState(airportsJson.airports);
+	const [monthPickerDepart, setMonthPickerDepart] = useState(false);
+	const [monthPickerReturn, setMonthPickerReturn] = useState(false);
 
 	return (
 		<div>
-			<form onSubmit={(e) => { e.preventDefault(); searchFlights(origin, destination, departDate, returnDate, maxPrice, currency); }}>
+			<form onSubmit={(e) => { e.preventDefault(); searchFlights(origin, destination, departDate, returnDate, maxPrice, currency, monthPickerDepart, monthPickerReturn); }}>
 				<div className="formContainer">
 					<div className="formGroup columnOne">
 						<label>From</label>
@@ -28,15 +34,31 @@ const FlightSearch = ({ searchFlights, searchType }) => {
 					</div>
 					<div className="formGroup columnOne">
 						<label>Depart</label>
-						<input type="date" value={departDate} onChange={(e) => setDepartDate(e.target.value)} />
+						{!monthPickerDepart && <DatePicker oneTap format="dd/MM/yyyy" placeholder="gg/mm/aaaa" value={departDate} onChange={setDepartDate} />}
+						{monthPickerDepart && <DatePicker oneTap format="MM/yyyy" placeholder="mm/aaaa" value={departDate} onChange={setDepartDate} />}
+						<div className="toggleContainer">
+							<div className="toggleLabel">month</div>
+							<label className="switch">
+								<input type="checkbox" value={monthPickerDepart} onChange={() => setMonthPickerDepart(!monthPickerDepart)} />
+								<div className="slider"></div>
+							</label>
+						</div>
 					</div>
 					<div className="formGroup columnTwo">
 						<label>Return</label>
-						<input type="date" value={returnDate} onChange={(e) => setReturnDate(e.target.value)} />
+						{!monthPickerReturn && <DatePicker oneTap format="dd/MM/yyyy" placeholder="gg/mm/aaaa" value={returnDate} onChange={setReturnDate} />}
+						{monthPickerReturn && <DatePicker oneTap format="MM/yyyy" placeholder="mm/aaaa" value={returnDate} onChange={setReturnDate} />}
+						<div className="toggleContainer">
+							<div className="toggleLabel">month</div>
+							<label className="switch">
+								<input type="checkbox" value={monthPickerReturn} onChange={() => setMonthPickerReturn(!monthPickerReturn)} />
+								<div className="slider"></div>
+							</label>
+						</div>
 					</div>
 					<div className="formGroup columnOne">
 						<label>Max Price</label>
-						<input type="number" value={maxPrice} onChange={(e) => setMaxPrice(e.target.value)} />
+						<InputNumber value={maxPrice} onChange={setMaxPrice} step={20} min={0} />
 					</div>
 					<div className="formGroup columnTwo">
 						<label>Currency</label>
