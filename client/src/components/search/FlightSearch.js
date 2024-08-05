@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Select from "react-select"
 import './FlightSearch.css';
-import { DatePicker, InputNumber, Checkbox } from 'rsuite';
+import { DatePicker, InputNumber } from 'rsuite';
 import currenciesJson from '../../data/currencies.json';
 import airportsJson from '../../data/airports.json';
 import 'rsuite/DatePicker/styles/index.css';
