@@ -19,7 +19,7 @@ const BestDepartFlights = () => {
       if (returnDate !== undefined) {
         monthPickerReturn ? returnDate = format(returnDate, 'yyyy-MM') : returnDate = format(returnDate, 'yyyy-MM-dd')
       } else returnDate = format(new Date(), 'yyyy-MM')
-      const response = await axios.get(`http://${process.env.REACT_APP_SERVER_IP || 'localhost'}:5000/flightsByPrice`, {
+      const response = await axios.get(`/flightsByPrice`, {
         params: {
           origin: origin.value,
           destination: destination?.value,
