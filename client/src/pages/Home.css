@@ -1,5 +1,9 @@
 .Home {
     display: flex;
-    overflow-y: hidden;
+    overflow: hidden;
     margin-top: -180px
+}
+
+.iconToPage {
+    pointer-events: auto;
 }
