@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FlightsMonitor",
+  "name": "Flights Monitor - Track Best Flight Deals",
   "icons": [
     {
       "src": "favicon.ico",
@@ -21,5 +21,7 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "description": "Monitor and search for the best flight deals with Flights Monitor.",
+  "lang": "en"
 }
