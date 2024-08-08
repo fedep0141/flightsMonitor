@@ -4,8 +4,13 @@ const axios = require('axios');
 const cors = require('cors');
 const app = express();
 const port = 5000;
+const path = require('path');
+app.use(express.static(path.join(__dirname, '../client/build')));
 
-app.use(cors());
+app.use(cors({
+  origin: '*',
+  credentials: true,
+}));
 
 const filterByPrice = (data, maxPrice) => {
   const filteredResults = [];
@@ -68,6 +73,10 @@ app.get('/flightsEachDay', async (req, res) => {
   } catch (error) {
     res.status(500).send(error.toString());
   }
+});
+
+app.get('/*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../client/build', 'index.html'));
 });
 
 app.listen(port, () => {
